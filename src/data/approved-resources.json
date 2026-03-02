@@ -44,53 +44,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-yau0zr8e1",
-      "title": {
-        "zh": "daytona",
-        "en": "daytona"
-      },
-      "description": {
-        "zh": "Daytona 是一个用于运行 AI 生成代码的安全且可弹性伸缩的基础设施",
-        "en": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "agentic-workflow",
-        "ai",
-        "ai-agents",
-        "ai-runtime",
-        "ai-sandboxes",
-        "code-execution",
-        "code-interpreter",
-        "developer-tools",
-        "代码生成"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/daytonaio/daytona",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/daytonaio/daytona",
-      "metrics": {
-        "stars": 61583,
-        "forks": 5076,
-        "trendScore": 71735
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452082357-w4emrw4xz",
@@ -100,7 +55,7 @@
       },
       "description": {
         "zh": "EdgeInfer 旨在资源受限的设备（如 Android、iOS 或 MCU）上运行小型 AI 模型（包括嵌入模型和 ONNX 模型），以实现支持实时决策的高效边缘智能。",
-        "en": "EdgeInfer enables efficient edge intelligence by running small AI models, including embeddings and OnnxModels, on resource-constrained devices like Android, iOS, or MCUs for real-time decision-making. EdgeInfer 旨在资源受限的设备上运行小型 AI 模型（包括向量化和 Onnx 模型），如 Android、iOS 或 MCUs，实现高效的边缘智能，用于实时决策。"
+        "en": "EdgeInfer enables efficient edge intelligence by running small AI models, including embeddings and OnnxModels, on resource-constrained devices like..."
       },
       "primaryCategory": "AI 硬件",
       "secondaryCategory": "opensource_soft",
@@ -129,50 +84,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
-    },
-    {
-      "id": "auto-1772454875534-tyehvbkk5",
-      "title": {
-        "zh": "edge-infer",
-        "en": "edge-infer"
-      },
-      "description": {
-        "zh": "EdgeInfer 旨在资源受限的设备（如 Android、iOS 或 MCU）上运行小型 AI 模型（包括嵌入模型和 ONNX 模型），以实现高效的边缘智能，支持实时决策。",
-        "en": "EdgeInfer enables efficient edge intelligence by running small AI models, including embeddings and OnnxModels, on resource-constrained devices like Android, iOS, or MCUs for real-time decision-making. EdgeInfer 旨在资源受限的设备上运行小型 AI 模型（包括向量化和 Onnx 模型），如 Android、iOS 或 MCUs，实现高效的边缘智能，用于实时决策。"
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "inference",
-        "llm"
-      ],
-      "applicableCategories": [
-        "广告营销推广"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/unit-mesh/edge-infer",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/unit-mesh/edge-infer",
-      "metrics": {
-        "stars": 50,
-        "forks": 3,
-        "trendScore": 56
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于广告营销推广场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "广告营销推广"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
+      "scrapedAt": "2026-03-02T11:48:02.357Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452082357-9igb6gq5i",
@@ -227,66 +140,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
-    },
-    {
-      "id": "auto-1772454875534-xma4acuzt",
-      "title": {
-        "zh": "edge-veda",
-        "en": "edge-veda"
-      },
-      "description": {
-        "zh": "面向 Flutter 的端侧 AI SDK —— 支持大语言模型（LLM）推理、视觉处理、语音转文本（STT）、文本转语音（TTS）、图像生成、嵌入（Embeddings）、检索增强生成（RAG）及函数调用。在 iOS/macOS 上利用 Metal GPU 加速。",
-        "en": "On-device AI SDK for Flutter — LLM inference, vision, STT, TTS, image generation, embeddings, RAG, and function calling. Metal GPU on iOS/macOS."
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "dart",
-        "edge-ai",
-        "embeddings",
-        "flutter",
-        "inference",
-        "ios",
-        "llm",
-        "macos",
-        "metal",
-        "on-device-ai",
-        "rag",
-        "stable-diffusion",
-        "stt",
-        "tts",
-        "whisper",
-        "图像处理",
-        "语音处理",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "视频电商"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/ramanujammv1988/edge-veda",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/ramanujammv1988/edge-veda",
-      "metrics": {
-        "stars": 68,
-        "forks": 3,
-        "trendScore": 74
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于视频电商场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "视频电商"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
+      "scrapedAt": "2026-03-02T11:48:02.357Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454875534-qxhy1pzu6",
@@ -296,7 +151,7 @@
       },
       "description": {
         "zh": "本仓库实现了将 YOLOv10 目标检测模型转换为 LiteRT（.tflite）格式，并通过 Google AI Edge 将其部署于 Android 设备以进行端侧推理。",
-        "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference."
+        "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Goo..."
       },
       "primaryCategory": "AI 硬件",
       "secondaryCategory": "opensource_soft",
@@ -328,49 +183,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
-    },
-    {
-      "id": "auto-1772452082357-hk3rxq4c4",
-      "title": {
-        "zh": "YOLOv10-LiteRT-Android",
-        "en": "YOLOv10-LiteRT-Android"
-      },
-      "description": {
-        "zh": "本仓库提供了将 YOLOv10 目标检测模型转换为 LiteRT（.tflite）格式，并使用 Google AI Edge 将其部署于 Android 设备以进行端侧推理的实现方案。",
-        "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference."
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "android",
-        "computer-vision",
-        "litert",
-        "object-detection",
-        "tflite"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
-      "metrics": {
-        "stars": 36,
-        "forks": 9,
-        "trendScore": 54
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于广告营销推广场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
+      "scrapedAt": "2026-03-02T12:34:35.534Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454875534-7wlq4uk61",
@@ -380,7 +194,7 @@
       },
       "description": {
         "zh": "本课程旨在引导初学者探索边缘智能（Edge AI）的精彩世界，涵盖基础概念、主流模型、推理技术、设备特定应用、模型优化以及智能边缘智能体（Edge AI Agents）的开发。",
-        "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents."
+        "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniqu..."
       },
       "primaryCategory": "AI 硬件",
       "secondaryCategory": "prompt",
@@ -406,43 +220,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
-    },
-    {
-      "id": "auto-1772452082357-h7yg1m97b",
-      "title": {
-        "zh": "edgeai-for-beginners",
-        "en": "edgeai-for-beginners"
-      },
-      "description": {
-        "zh": "本课程旨在引导初学者进入令人兴奋的边缘人工智能（Edge AI）领域，涵盖基础概念、主流模型、推理技术、特定设备应用、模型优化以及智能边缘 AI 代理的开发。",
-        "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents."
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/microsoft/edgeai-for-beginners",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/microsoft/edgeai-for-beginners",
-      "metrics": {
-        "stars": 1338,
-        "forks": 279,
-        "trendScore": 1896
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
+      "scrapedAt": "2026-03-02T12:34:35.534Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-b8p5wgz6m",
@@ -452,7 +231,7 @@
       },
       "description": {
         "zh": "一款 Claude Code 插件，可自动捕获编码会话期间 Claude 的所有操作，利用 AI（基于 Claude 的 agent-sdk）进行压缩，并将相关上下文注入到后续会话中。",
-        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd..."
       },
       "primaryCategory": "AI 硬件",
       "secondaryCategory": "skill",
@@ -501,7 +280,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-i5j70q2ct",
@@ -543,7 +323,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452076006-0abinmupv",
@@ -553,7 +334,7 @@
       },
       "description": {
         "zh": "基于模型上下文协议（MCP）的服务器，配合 Claude Code 使用。这些工具显著增强了 Claude Code 的功能，使其能够与您的文件系统、Web 浏览器等进行交互。",
-        "en": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more."
+        "en": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with yo..."
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "mcp",
@@ -591,7 +372,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
+      "scrapedAt": "2026-03-02T11:47:56.006Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452076006-ojgkgnail",
@@ -638,7 +420,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
+      "scrapedAt": "2026-03-02T11:47:56.006Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454869366-llns2o3to",
@@ -697,7 +480,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.366Z"
+      "scrapedAt": "2026-03-02T12:34:29.366Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078864-urr7u8ge9",
@@ -748,58 +532,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.864Z"
-    },
-    {
-      "id": "auto-1772454872416-i9joub02x",
-      "title": {
-        "zh": "Multi-Modal-Chat",
-        "en": "Multi-Modal-Chat"
-      },
-      "description": {
-        "zh": "基于 Vercel AI SDK 和 LangGraph.js 的多模态 Next.js 聊天应用",
-        "en": "Multi-Modal Next.js Chat App with Vercel AI SDK & LangGraph.js"
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "ai",
-        "chart-js",
-        "chatbot",
-        "dall-e",
-        "langchain",
-        "langchain-tool",
-        "langchain-tools",
-        "langgraph",
-        "llm",
-        "nextjs",
-        "openai",
-        "react",
-        "react-streams",
-        "vercel-ai-sdk"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Ashot72/Multi-Modal-Chat",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Ashot72/Multi-Modal-Chat",
-      "metrics": {
-        "stars": 10,
-        "forks": 2,
-        "trendScore": 14
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:32.416Z"
+      "scrapedAt": "2026-03-02T11:47:58.864Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452082357-qbnwv7woo",
@@ -808,8 +542,8 @@
         "en": "neurons"
       },
       "description": {
-        "zh": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so",
-        "en": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so"
+        "zh": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological br...",
+        "en": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological br..."
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -852,7 +586,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
+      "scrapedAt": "2026-03-02T11:48:02.357Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452079936-xc7c17apt",
@@ -897,115 +632,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:59.936Z"
-    },
-    {
-      "id": "auto-1772454873499-54b3z2zl6",
-      "title": {
-        "zh": "silo",
-        "en": "silo"
-      },
-      "description": {
-        "zh": "一款专为 iOS 打造的私有 AI 助手。支持与大语言模型（LLM）对话，无追踪、无审查。完全本地运行，无需联网。",
-        "en": "a private ai assistant for iOS. Chat with LLMs with no tracking or censorship. Local and completely on-device, no internet required."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "ai",
-        "gguf",
-        "llamacpp",
-        "llm",
-        "models",
-        "swift",
-        "swiftui",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "创意设计"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/stevederico/silo",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/stevederico/silo",
-      "metrics": {
-        "stars": 4,
-        "forks": 1,
-        "trendScore": 6
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于大语言模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "创意设计"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:33.499Z"
-    },
-    {
-      "id": "auto-1772454871652-m210jyctj",
-      "title": {
-        "zh": "claude-mem",
-        "en": "claude-mem"
-      },
-      "description": {
-        "zh": "一款 Claude Code 插件，可自动捕获编码会话中 Claude 的所有操作，利用 AI（基于 Claude 的 agent-sdk）进行压缩，并将相关上下文注入到后续会话中。",
-        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai",
-        "ai-agents",
-        "ai-memory",
-        "anthropic",
-        "artificial-intelligence",
-        "chromadb",
-        "claude",
-        "claude-agent-sdk",
-        "claude-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "embeddings",
-        "long-term-memory",
-        "mem0",
-        "memory-engine",
-        "openmemory",
-        "rag",
-        "sqlite",
-        "supermemory",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/thedotmack/claude-mem",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/thedotmack/claude-mem",
-      "metrics": {
-        "stars": 32196,
-        "forks": 2193,
-        "trendScore": 36582
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T11:47:59.936Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454884871-1r1p9crly",
@@ -1015,9 +643,9 @@
       },
       "description": {
         "zh": "AI 广告智能体，可自动化执行跨 Google Ads、Meta Ads、LinkedIn Ads 和 TikTok Ads 的广告活动。支持创建广告系列、读取实时绩效数据、基于真实 CPC 数据进行关键词调研，并优化",
-        "en": "AI advertising agents that automates ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. Creates campaigns, reads live performance data,\nresearches keywords with real CPC data, opt"
+        "en": "AI advertising agents that automates ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. Creates campaigns, reads live performa..."
       },
-      "primaryCategory": "广告营销推广",
+      "primaryCategory": "视频电商",
       "secondaryCategory": "agent",
       "capabilityTags": [
         "Marketing",
@@ -1045,47 +673,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:44.871Z"
-    },
-    {
-      "id": "auto-1772452096116-mxuurtwfn",
-      "title": {
-        "zh": "ai-ads-agent",
-        "en": "ai-ads-agent"
-      },
-      "description": {
-        "zh": "AI 广告智能体，可自动化执行跨 Google Ads、Meta Ads、LinkedIn Ads 和 TikTok Ads 的广告活动。支持创建广告活动、读取实时绩效数据、基于真实 CPC 数据进行关键词调研，并优化广告效果。",
-        "en": "AI advertising agents that automates ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. Creates campaigns, reads live performance data,\nresearches keywords with real CPC data, opt"
-      },
-      "primaryCategory": "广告营销推广",
-      "secondaryCategory": "agent",
-      "capabilityTags": [
-        "Marketing",
-        "Automation",
-        "搜索"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https:///skills/ai-ads-agent-9aVyPW",
-      "source": "OpenClaw Directory",
-      "sourceUrl": "https:///skills/ai-ads-agent-9aVyPW",
-      "metrics": {
-        "stars": 0,
-        "forks": 0,
-        "trendScore": 0
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于广告营销推广场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:16.116Z"
+      "scrapedAt": "2026-03-02T12:34:44.871Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-5ndhxou35",
@@ -1136,68 +725,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454875534-jjjf1bqnn",
-      "title": {
-        "zh": "neurons",
-        "en": "neurons"
-      },
-      "description": {
-        "zh": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so",
-        "en": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so"
-      },
-      "primaryCategory": "广告营销推广",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "an-ann",
-        "android",
-        "artificial-intelligence",
-        "aryia-behroziuan",
-        "bootstrap",
-        "csharp",
-        "deep-learning",
-        "expressjs",
-        "firebase",
-        "neural-network",
-        "wikipedia",
-        "图像处理",
-        "视频处理",
-        "语音处理",
-        "翻译",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "广告营销推广",
-        "AI 硬件",
-        "创意设计"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Aryia-Behroziuan/neurons",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/Aryia-Behroziuan/neurons",
-      "metrics": {
-        "stars": 78,
-        "forks": 18,
-        "trendScore": 114
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于大语言模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于广告营销推广场景的工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "广告营销推广",
-          "AI 硬件",
-          "创意设计"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-vxjl4nqgl",
@@ -1251,7 +780,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452076006-bi0knkj57",
@@ -1301,7 +831,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
+      "scrapedAt": "2026-03-02T11:47:56.006Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454869365-6m26oykdn",
@@ -1351,7 +882,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.365Z"
+      "scrapedAt": "2026-03-02T12:34:29.365Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454869366-jowfo58jq",
@@ -1411,7 +943,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.366Z"
+      "scrapedAt": "2026-03-02T12:34:29.366Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-2kn4y70vp",
@@ -1421,7 +954,7 @@
       },
       "description": {
         "zh": "Composio 提供 1000+ 工具包、工具搜索、上下文管理、身份认证及沙盒工作台，助力您构建能将意图转化为行动的 AI 智能体。",
-        "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
+        "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn in..."
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "mcp",
@@ -1466,68 +999,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-l0gcqkd0n",
-      "title": {
-        "zh": "Composio",
-        "en": "composio"
-      },
-      "description": {
-        "zh": "Composio 提供 1000 多个工具包、工具搜索、上下文管理、身份验证以及沙盒工作台，助力您构建能够将意图转化为行动的 AI 智能体。",
-        "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "aiagents",
-        "developer-tools",
-        "function-calling",
-        "gpt-4",
-        "javascript",
-        "js",
-        "llm",
-        "llmops",
-        "mcp",
-        "python",
-        "remote-mcp-server",
-        "sse",
-        "typescript",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "智能母体",
-        "创意设计"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/composio",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/composio",
-      "metrics": {
-        "stars": 27240,
-        "forks": 4460,
-        "trendScore": 36160
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体",
-          "创意设计"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-0cxnwm592",
@@ -1537,7 +1010,7 @@
       },
       "description": {
         "zh": "智能体效能优化系统。为 Claude Code、Codex、Cowork 及更多工具提供技能、直觉、记忆、安全及以研究为先的开发能力。",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowo..."
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "mcp",
@@ -1576,7 +1049,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-qg4ghrhm1",
@@ -1620,7 +1094,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-zn8cfkuzw",
@@ -1680,49 +1155,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772454871652-5m5tz7bk2",
-      "title": {
-        "zh": "agno",
-        "en": "agno"
-      },
-      "description": {
-        "zh": "规模化构建、运行和管理智能体软件。",
-        "en": "Build, run, manage agentic software at scale."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "developer-tools",
-        "python"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/agno-agi/agno",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/agno-agi/agno",
-      "metrics": {
-        "stars": 38337,
-        "forks": 5077,
-        "trendScore": 48491
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-3u80a8ha9",
@@ -1780,7 +1214,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-z0wqpf80w",
@@ -1828,7 +1263,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-3e2l3z69j",
@@ -1876,247 +1312,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3e2l3z69j",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 提供提示工程、上下文工程、RAG（检索增强生成）及 AI 智能体相关的指南、论文、课程、笔记和资源。",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71011,
-        "forks": 7562,
-        "trendScore": 86135
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3e2l3z69j",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 提示工程、上下文工程、RAG 及 AI 智能体的指南、论文、课程、笔记和资源。",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71011,
-        "forks": 7562,
-        "trendScore": 86135
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3e2l3z69j",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（RAG）及 AI 智能体相关的指南、论文、课程、笔记本和资源。",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71011,
-        "forks": 7562,
-        "trendScore": 86135
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3e2l3z69j",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（RAG）及智能体（AI Agents）相关的指南、论文、课程、笔记本和资源。",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71011,
-        "forks": 7562,
-        "trendScore": 86135
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3e2l3z69j",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 提供提示工程、上下文工程、RAG（检索增强生成）及 AI 智能体相关的指南、论文、课程、代码笔记本和资源。",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71011,
-        "forks": 7562,
-        "trendScore": 86135
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452076006-ymh6e6b6b",
@@ -2176,178 +1373,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
-    },
-    {
-      "id": "auto-1772454869366-jowfo58jq",
-      "title": {
-        "zh": "claude-code-guide",
-        "en": "claude-code-guide"
-      },
-      "description": {
-        "zh": "Claude Code 指南 - 配置、命令、工作流、智能体、技能及实用技巧",
-        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "ai",
-        "ai-agent",
-        "ai-agent-tools",
-        "claude",
-        "claude-ai",
-        "claude-api",
-        "claude-code",
-        "claude-code-communication",
-        "claude-code-guide",
-        "claude-code-typescript",
-        "claude-commands",
-        "claude-desktop",
-        "claude-mcp",
-        "claude-sonnet",
-        "claude-sonnet-4",
-        "code",
-        "mcp",
-        "mcp-agents",
-        "mcp-tools",
-        "vscode-extension",
-        "代码生成",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
-      "metrics": {
-        "stars": 3497,
-        "forks": 325,
-        "trendScore": 4147
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.366Z"
-    },
-    {
-      "id": "auto-1772454869366-jowfo58jq",
-      "title": {
-        "zh": "claude-code-guide",
-        "en": "claude-code-guide"
-      },
-      "description": {
-        "zh": "Claude Code 指南 - 设置、命令、工作流、智能体、技能及实用技巧",
-        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "ai",
-        "ai-agent",
-        "ai-agent-tools",
-        "claude",
-        "claude-ai",
-        "claude-api",
-        "claude-code",
-        "claude-code-communication",
-        "claude-code-guide",
-        "claude-code-typescript",
-        "claude-commands",
-        "claude-desktop",
-        "claude-mcp",
-        "claude-sonnet",
-        "claude-sonnet-4",
-        "code",
-        "mcp",
-        "mcp-agents",
-        "mcp-tools",
-        "vscode-extension",
-        "代码生成",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
-      "metrics": {
-        "stars": 3497,
-        "forks": 325,
-        "trendScore": 4147
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.366Z"
-    },
-    {
-      "id": "auto-1772452082357-qbnwv7woo",
-      "title": {
-        "zh": "neurons",
-        "en": "neurons"
-      },
-      "description": {
-        "zh": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so",
-        "en": "An ANN is a model based on a collection of connected units or nodes called \"artificial neurons\", which loosely model the neurons in a biological brain. Each connection, like the synapses in a biological brain, can transmit information, a \"signal\", from one artificial neuron to another. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. In common ANN implementations, the signal at a connection between artificial neurons is a real number, and the output of each artificial neuron is computed by some non-linear function of the sum of its inputs. The connections between artificial neurons are called \"edges\". Artificial neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Artificial neurons may have a threshold such that the signal is only sent if the aggregate signal crosses that threshold. Typically, artificial neurons are aggregated into layers. Different layers may perform different kinds of transformations on their inputs. Signals travel from the first layer (the input layer) to the last layer (the output layer), possibly after traversing the layers multiple times.  The original goal of the ANN approach was to solve problems in the same way that a human brain would. However, over time, attention moved to performing specific tasks, leading to deviations from biology. Artificial neural networks have been used on a variety of tasks, including computer vision, speech recognition, machine translation, social network filtering, playing board and video games and medical diagnosis.  Deep learning consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are computer vision and speech recognition.[68]  Decision trees Main article: Decision tree learning Decision tree learning uses a decision tree as a predictive model to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data, but the resulting classification tree can be an input for decision making.  Support vector machines Main article: Support vector machines Support vector machines (SVMs), also known as support vector networks, are a set of related supervised learning methods used for classification and regression. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.[69] An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.   Illustration of linear regression on a data set. Regression analysis Main article: Regression analysis Regression analysis encompasses a large variety of statistical methods to estimate the relationship between input variables and their associated features. Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares. The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel[70]), logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher-dimensional space.  Bayesian networks Main article: Bayesian network  A simple Bayesian network. Rain influences whether the sprinkler is activated, and both rain and the sprinkler influence whether the grass is wet. A Bayesian network, belief network, or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independence with a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform inference and learning. Bayesian networks that model sequences of variables, like speech signals or protein sequences, are called dynamic Bayesian networks. Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams.  Genetic algorithms Main article: Genetic algorithm A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. In machine learning, genetic algorithms were used in the 1980s and 1990s.[71][72] Conversely, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.[73]  Training models Usually, machine learning models require a lot of data in order for them to perform well. Usually, when training a machine learning model, one needs to collect a large, representative sample of data from a training set. Data from the training set can be as varied as a corpus of text, a collection of images, and data collected from individual users of a service. Overfitting is something to watch out for when training a machine learning model.  Federated learning Main article: Federated learning Federated learning is an adapted form of distributed artificial intelligence to training machine learning models that decentralizes the training process, allowing for users' privacy to be maintained by not needing to send their data to a centralized server. This also increases efficiency by decentralizing the training process to many devices. For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google.[74]  Applications There are many applications for machine learning, including:  Agriculture Anatomy Adaptive websites Affective computing Banking Bioinformatics Brain–machine interfaces Cheminformatics Citizen science Computer networks Computer vision Credit-card fraud detection Data quality DNA sequence classification Economics Financial market analysis[75] General game playing Handwriting recognition Information retrieval Insurance Internet fraud detection Linguistics Machine learning control Machine perception Machine translation Marketing Medical diagnosis Natural language processing Natural language understanding Online advertising Optimization Recommender systems Robot locomotion Search engines Sentiment analysis Sequence mining Software engineering Speech recognition Structural health monitoring Syntactic pattern recognition Telecommunication Theorem proving Time series forecasting User behavior analytics In 2006, the media-services provider Netflix held the first \"Netflix Prize\" competition to find a program to better predict user preferences and improve the accuracy of its existing Cinematch movie recommendation algorithm by at least 10%. A joint team made up of researchers from AT&T Labs-Research in collaboration with the teams Big Chaos and Pragmatic Theory built an ensemble model to win the Grand Prize in 2009 for $1 million.[76] Shortly after the prize was awarded, Netflix realized that viewers' ratings were not the best indicators of their viewing patterns (\"everything is a recommendation\") and they changed their recommendation engine accordingly.[77] In 2010 The Wall Street Journal wrote about the firm Rebellion Research and their use of machine learning to predict the financial crisis.[78] In 2012, co-founder of Sun Microsystems, Vinod Khosla, predicted that 80% of medical doctors' jobs would be lost in the next two decades to automated machine learning medical diagnostic software.[79] In 2014, it was reported that a machine learning algorithm had been applied in the field of art history to study fine art paintings and that it may have revealed previously unrecognized influences among artists.[80] In 2019 Springer Nature published the first research book created using machine learning.[81]  Limitations Although machine learning has been transformative in some fields, machine-learning programs often fail to deliver expected results.[82][83][84] Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems.[85]  In 2018, a self-driving car from Uber failed to detect a pedestrian, who was killed after a collision.[86] Attempts to use machine learning in healthcare with the IBM Watson system failed to deliver even after years of time and billions of dollars invested.[87][88]  Bias Main article: Algorithmic bias Machine learning approaches in particular can suffer from different data biases. A machine learning system trained on current customers only may not be able to predict the needs of new customer groups that are not represented in the training data. When trained on man-made data, machine learning is likely to pick up the same constitutional and unconscious biases already present in society.[89] Language models learned from data have been shown to contain human-like biases.[90][91] Machine learning systems used for criminal risk assessment have been found to be biased against black people.[92][93] In 2015, Google photos would often tag black people as gorillas,[94] and in 2018 this still was not well resolved, but Google reportedly was still using the workaround to remove all gorillas from the training data, and thus was not able to recognize real gorillas at all.[95] Similar issues with recognizing non-white people have been found in many other systems.[96] In 2016, Microsoft tested a chatbot that learned from Twitter, and it quickly picked up racist and sexist language.[97] Because of such challenges, the effective use of machine learning may take longer to be adopted in other domains.[98] Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that \"There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. It is a powerful tool we are only just beginning to understand, and that is a profound responsibility.”[99]  Model assessments Classification of machine learning models can be validated by accuracy estimation techniques like the holdout method, which splits the data in a training and test set (conventionally 2/3 training set and 1/3 test set designation) and evaluates the performance of the training model on the test set. In comparison, the K-fold-cross-validation method randomly partitions the data into K subsets and then K experiments are performed each respectively considering 1 subset for evaluation and the remaining K-1 subsets for training the model. In addition to the holdout and cross-validation methods, bootstrap, which samples n instances with replacement from the dataset, can be used to assess model accuracy.[100]  In addition to overall accuracy, investigators frequently report sensitivity and specificity meaning True Positive Rate (TPR) and True Negative Rate (TNR) respectively. Similarly, investigators sometimes report the false positive rate (FPR) as well as the false negative rate (FNR). However, these rates are ratios that fail to reveal their numerators and denominators. The total operating characteristic (TOC) is an effective method to express a model's diagnostic ability. TOC shows the numerators and denominators of the previously mentioned rates, thus TOC provides more information than the commonly used receiver operating characteristic (ROC) and ROC's associated area under the curve (AUC).[101]  Ethics Machine learning poses a host of ethical questions. Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices.[102] For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants.[103][104] Responsible collection of data and documentation of algorithmic rules used by a system thus is a critical part of machine learning.  Because human languages contain biases, machines trained on language corpora will necessarily also learn these biases.[105][106]  Other forms of ethical challenges, not related to personal biases, are more seen in health care. There are concerns among health care professionals that these systems might not be designed in the public's interest but as income-generating machines. This is especially true in the United States where there is a long-standing ethical dilemma of improving health care, but also increasing profits. For example, the algorithms could be designed to provide patients with unnecessary tests or medication in which the algorithm's proprietary owners hold stakes. There is huge potential for machine learning in health care to provide professionals a great tool to diagnose, medicate, and even plan recovery paths for patients, but this will not happen until the personal biases mentioned previously, and these \"greed\" biases are addressed.[107]  Hardware Since the 2010s, advances in both machine learning algorithms and computer hardware have led to more efficient methods for training deep neural networks (a particular narrow subdomain of machine learning) that contain many layers of non-linear hidden units.[108] By 2019, graphic processing units (GPUs), often with AI-specific enhancements, had displaced CPUs as the dominant method of training large-scale commercial cloud AI.[109] OpenAI estimated the hardware compute used in the largest deep learning projects from AlexNet (2012) to AlphaZero (2017), and found a 300,000-fold increase in the amount of compute required, with a doubling-time trendline of 3.4 months.[110][111]  Software Software suites containing a variety of machine learning algorithms include the following:  Free and open-source so"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "prompt",
-      "capabilityTags": [
-        "机器学习原理",
-        "算法百科",
-        "教育科普",
-        "技术参考"
-      ],
-      "applicableCategories": [
-        "AI 技术培训与教学",
-        "算法选型参考",
-        "技术文档撰写辅助",
-        "科研项目背景调研"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Aryia-Behroziuan/neurons",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/Aryia-Behroziuan/neurons",
-      "metrics": {
-        "stars": 78,
-        "forks": 18,
-        "trendScore": 114
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "系统化梳理从 ANN 到深度学习的完整知识体系",
-          "涵盖算法原理、应用场景及伦理偏见的全面综述",
-          "提供决策树、SVM、回归分析等核心概念的深度解析"
-        ],
-        "recommendationReason": "作为高质量的知识库提示词或参考文档，帮助开发者和研究者快速理解机器学习底层逻辑与前沿动态。",
-        "technicalHighlight": "结构化呈现神经网络、遗传算法、联邦学习等多元技术栈，包含偏差分析与模型评估方法。",
-        "applicableScenarios": [
-          "AI 技术培训与教学",
-          "算法选型参考",
-          "技术文档撰写辅助",
-          "科研项目背景调研"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:48:02.357Z"
+      "scrapedAt": "2026-03-02T11:47:56.006Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-zz6d9sk81",
@@ -2405,54 +1432,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-ogiuwei4g",
-      "title": {
-        "zh": "firecrawl",
-        "en": "firecrawl"
-      },
-      "description": {
-        "zh": "🔥 面向 AI 的网络数据 API - 将整个网站转换为适用于大语言模型的 Markdown 或结构化数据",
-        "en": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "网页抓取",
-        "数据清洗",
-        "Markdown 转换"
-      ],
-      "applicableCategories": [
-        "RAG 知识库构建",
-        "竞品数据分析",
-        "行业情报监控"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/firecrawl/firecrawl",
-      "metrics": {
-        "stars": 87277,
-        "forks": 6201,
-        "trendScore": 99679
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "专为 LLM 优化的网页数据结构化方案",
-          "一键将全站转换为 Markdown"
-        ],
-        "recommendationReason": "解决了 RAG（检索增强生成）应用中数据预处理难、噪声大的痛点，是构建知识库的利器。",
-        "technicalHighlight": "自动处理动态渲染内容并输出 LLM 友好的结构化格式。",
-        "applicableScenarios": [
-          "RAG 知识库构建",
-          "竞品数据分析",
-          "行业情报监控"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-5ndhxou35",
@@ -2503,101 +1484,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-z0wqpf80w",
-      "title": {
-        "zh": "Prompt-Engineering-Guide",
-        "en": "Prompt-Engineering-Guide"
-      },
-      "description": {
-        "zh": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-        "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent",
-        "agents",
-        "ai-agents",
-        "chatgpt",
-        "deep-learning",
-        "generative-ai",
-        "language-model",
-        "llms",
-        "openai",
-        "prompt-engineering",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "metrics": {
-        "stars": 71014,
-        "forks": 7562,
-        "trendScore": 86138
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-0wt25seih",
-      "title": {
-        "zh": "daytona",
-        "en": "daytona"
-      },
-      "description": {
-        "zh": "Daytona 是一个用于运行 AI 生成代码的安全且弹性的基础设施",
-        "en": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agentic-workflow",
-        "ai",
-        "ai-agents",
-        "ai-runtime",
-        "ai-sandboxes",
-        "code-execution",
-        "code-interpreter",
-        "developer-tools",
-        "代码生成"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/daytonaio/daytona",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/daytonaio/daytona",
-      "metrics": {
-        "stars": 61584,
-        "forks": 5076,
-        "trendScore": 71736
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于大语言模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772452078068-v171a29gn",
@@ -2607,7 +1495,7 @@
       },
       "description": {
         "zh": "智能体性能优化系统。为 Claude Code、Codex、Cowork 及更多工具提供技能、直觉、记忆、安全及研究优先的开发能力。",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
+        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowo..."
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "skill",
@@ -2650,219 +1538,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-v171a29gn",
-      "title": {
-        "zh": "everything-claude-code",
-        "en": "everything-claude-code"
-      },
-      "description": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "记忆/知识",
-        "代码生成",
-        "大语言模型",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/affaan-m/everything-claude-code",
-      "metrics": {
-        "stars": 56807,
-        "forks": 7008,
-        "trendScore": 70823
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-v171a29gn",
-      "title": {
-        "zh": "everything-claude-code",
-        "en": "everything-claude-code"
-      },
-      "description": {
-        "zh": "智能体性能优化系统。为 Claude Code、Codex、Cowork 及更多平台提供技能、直觉、记忆、安全及以研究为先的开发能力。",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "记忆/知识",
-        "代码生成",
-        "大语言模型",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/affaan-m/everything-claude-code",
-      "metrics": {
-        "stars": 56807,
-        "forks": 7008,
-        "trendScore": 70823
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-v171a29gn",
-      "title": {
-        "zh": "everything-claude-code",
-        "en": "everything-claude-code"
-      },
-      "description": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "记忆/知识",
-        "代码生成",
-        "大语言模型",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/affaan-m/everything-claude-code",
-      "metrics": {
-        "stars": 56807,
-        "forks": 7008,
-        "trendScore": 70823
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-v171a29gn",
-      "title": {
-        "zh": "everything-claude-code",
-        "en": "everything-claude-code"
-      },
-      "description": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "记忆/知识",
-        "代码生成",
-        "大语言模型",
-        "搜索"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/affaan-m/everything-claude-code",
-      "metrics": {
-        "stars": 56807,
-        "forks": 7008,
-        "trendScore": 70823
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-vxjl4nqgl",
@@ -2916,409 +1593,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-vxjl4nqgl",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39500,
-        "forks": 3915,
-        "trendScore": 47330
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "一份精选的 Claude 技能、资源及工具列表，用于定制 Claude AI 工作流",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "精选的 Claude 技能、资源及工具列表，用于定制 Claude AI 工作流",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-c3davnyq6",
-      "title": {
-        "zh": "awesome-claude-skills",
-        "en": "awesome-claude-skills"
-      },
-      "description": {
-        "zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "composio",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "rube",
-        "saas",
-        "skill",
-        "workflow-automation",
-        "工作流",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "智能母体"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "metrics": {
-        "stars": 39486,
-        "forks": 3914,
-        "trendScore": 47314
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "智能母体"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-ia8n0uhqx",
@@ -3372,7 +1648,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "auto-1772454871652-m210jyctj",
@@ -3381,8 +1658,8 @@
         "en": "claude mem"
       },
       "description": {
-        "zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+        "zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd...",
+        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd..."
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "skill",
@@ -3431,493 +1708,8 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-3u80a8ha9",
-      "title": {
-        "zh": "anything-llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55265,
-        "forks": 5971,
-        "trendScore": 67207
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3u80a8ha9",
-      "title": {
-        "zh": "anything-llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "一款集桌面端与 Docker 部署于一体的全能型 AI 应用，内置 RAG（检索增强生成）、AI 智能体、无代码智能体构建器、MCP 兼容性等功能。",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55265,
-        "forks": 5971,
-        "trendScore": 67207
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3u80a8ha9",
-      "title": {
-        "zh": "anything-llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55265,
-        "forks": 5971,
-        "trendScore": 67207
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3u80a8ha9",
-      "title": {
-        "zh": "anything-llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55265,
-        "forks": 5971,
-        "trendScore": 67207
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452078068-3u80a8ha9",
-      "title": {
-        "zh": "anything-llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55265,
-        "forks": 5971,
-        "trendScore": 67207
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772452076006-ojgkgnail",
-      "title": {
-        "zh": "datawrapper-mcp",
-        "en": "datawrapper-mcp"
-      },
-      "description": {
-        "zh": "A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants.",
-        "en": "A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "数据可视化",
-        "图表生成",
-        "AI 辅助设计"
-      ],
-      "applicableCategories": [
-        "商业报告制作",
-        "新闻媒体数据新闻",
-        "教育演示材料"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/palewire/datawrapper-mcp",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/palewire/datawrapper-mcp",
-      "metrics": {
-        "stars": 23,
-        "forks": 8,
-        "trendScore": 39
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "通过 MCP 协议让 AI 助手直接调用 Datawrapper 创建专业图表",
-          "简化数据到可视化的流程"
-        ],
-        "recommendationReason": "适合需要快速将数据转化为高质量可视化内容的分析师或内容创作者。",
-        "technicalHighlight": "基于 Model Context Protocol 实现 AI 与 Datawrapper 的无缝集成。",
-        "applicableScenarios": [
-          "商业报告制作",
-          "新闻媒体数据新闻",
-          "教育演示材料"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
-    },
-    {
-      "id": "auto-1772452076006-0abinmupv",
-      "title": {
-        "zh": "claude-code-mcp",
-        "en": "claude-code-mcp"
-      },
-      "description": {
-        "zh": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more.",
-        "en": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "文件系统交互",
-        "浏览器控制",
-        "代码增强",
-        "AI 编程"
-      ],
-      "applicableCategories": [
-        "自动化测试脚本生成",
-        "网页内容抓取与处理",
-        "本地项目结构管理"
-      ],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/zebbern/claude-code-mcp",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/zebbern/claude-code-mcp",
-      "metrics": {
-        "stars": 28,
-        "forks": 4,
-        "trendScore": 36
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "扩展 Claude Code 能力，使其能直接操作本地文件与浏览器",
-          "构建更强大的 AI 编程工作流"
-        ],
-        "recommendationReason": "适合希望借助 AI 完成复杂开发任务、自动化脚本编写或项目管理的开发者。",
-        "technicalHighlight": "通过 MCP 协议打通 AI 与操作系统/浏览器的交互壁垒。",
-        "applicableScenarios": [
-          "自动化测试脚本生成",
-          "网页内容抓取与处理",
-          "本地项目结构管理"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:56.006Z"
-    },
-    {
-      "id": "auto-1772454869366-llns2o3to",
-      "title": {
-        "zh": "multi_mcp",
-        "en": "multi_mcp"
-      },
-      "description": {
-        "zh": "Multi-Model chat, code review and analysis MCP Server for Claude Code",
-        "en": "Multi-Model chat, code review and analysis MCP Server for Claude Code"
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-agents-cli",
-        "ai-code-review",
-        "anthropic",
-        "claude",
-        "claude-commands",
-        "claude-mcp",
-        "claude-skills",
-        "code-analysis",
-        "developer-tools",
-        "gemini",
-        "llm",
-        "llm-orchestration",
-        "mcp",
-        "mcp-agent",
-        "multi-agent",
-        "multi-model",
-        "openai",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/religa/multi_mcp",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/religa/multi_mcp",
-      "metrics": {
-        "stars": 16,
-        "forks": 3,
-        "trendScore": 22
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:29.366Z"
-    },
-    {
-      "id": "auto-1772452078068-i5j70q2ct",
-      "title": {
-        "zh": "agno",
-        "en": "agno"
-      },
-      "description": {
-        "zh": "Build, run, manage agentic software at scale.",
-        "en": "Build, run, manage agentic software at scale."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "agent",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "developer-tools",
-        "python"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/agno-agi/agno",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/agno-agi/agno",
-      "metrics": {
-        "stars": 38335,
-        "forks": 5078,
-        "trendScore": 48491
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
+      "scrapedAt": "2026-03-02T12:34:31.652Z",
+      "version": "1.0.0"
     },
     {
       "id": "autoclaw-mcp-1",
@@ -3967,7 +1759,8 @@
         ]
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T14:18:22.247Z"
+      "scrapedAt": "2026-03-02T14:18:22.247Z",
+      "version": "1.0.0"
     },
     {
       "id": "official-openclaw-core",
