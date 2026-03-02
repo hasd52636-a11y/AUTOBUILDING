@@ -7,7 +7,7 @@
         "en": "daytona"
       },
       "description": {
-        "zh": "Daytona 是一个用于运行 AI 生成代码的安全且可扩展的基础设施",
+        "zh": "是一个用于运行  生成代码的安全且可扩展的基础设施",
         "en": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
       },
       "primaryCategory": "创意设计",
@@ -54,7 +54,7 @@
         "en": "edge-infer"
       },
       "description": {
-        "zh": "EdgeInfer 旨在资源受限的设备（如 Android、iOS 或 MCU）上运行小型 AI 模型（包括嵌入模型和 ONNX 模型），以实现支持实时决策的高效边缘智能。",
+        "zh": "旨在资源受限的设备（如 、 或 ）上运行小型  模型（包括嵌入模型和  模型），以实现支持实时决策的高效边缘智能。",
         "en": "EdgeInfer enables efficient edge intelligence by running small AI models, including embeddings and OnnxModels, on resource-constrained devices like..."
       },
       "primaryCategory": "创意设计",
@@ -94,7 +94,7 @@
         "en": "edge-veda"
       },
       "description": {
-        "zh": "面向 Flutter 的端侧 AI SDK — 支持大语言模型推理、视觉识别、语音转文本（STT）、文本转语音（TTS）、图像生成、嵌入向量、检索增强生成（RAG）及函数调用。在 iOS/macOS 上利用 Metal GPU 加速。",
+        "zh": "面向  的端侧   — 支持大语言模型推理、视觉识别、语音转文本（）、文本转语音（）、图像生成、嵌入向量、检索增强生成（）及函数调用。在 / 上利用   加速。",
         "en": "On-device AI SDK for Flutter — LLM inference, vision, STT, TTS, image generation, embeddings, RAG, and function calling. Metal GPU on iOS/macOS."
       },
       "primaryCategory": "创意设计",
@@ -150,7 +150,7 @@
         "en": "YOLOv10-LiteRT-Android"
       },
       "description": {
-        "zh": "本仓库实现了将 YOLOv10 目标检测模型转换为 LiteRT（.tflite）格式，并通过 Google AI Edge 将其部署于 Android 设备以进行端侧推理。",
+        "zh": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Goo...",
         "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Goo..."
       },
       "primaryCategory": "创意设计",
@@ -193,7 +193,7 @@
         "en": "edgeai-for-beginners"
       },
       "description": {
-        "zh": "本课程旨在引导初学者探索边缘智能（Edge AI）的精彩世界，涵盖基础概念、主流模型、推理技术、设备特定应用、模型优化以及智能边缘智能体（Edge AI Agents）的开发。",
+        "zh": "本课程旨在引导初学者探索边缘智能（ ）的精彩世界，涵盖基础概念、主流模型、推理技术、设备特定应用、模型优化以及智能边缘智能体（  ）的开发。",
         "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniqu..."
       },
       "primaryCategory": "创意设计",
@@ -230,7 +230,7 @@
         "en": "claude-mem"
       },
       "description": {
-        "zh": "一款 Claude Code 插件，可自动捕获编码会话期间 Claude 的所有操作，利用 AI（基于 Claude 的 agent-sdk）进行压缩，并将相关上下文注入到后续会话中。",
+        "zh": "一款   插件，可自动捕获编码会话期间  的所有操作，利用 （基于  的 -）进行压缩，并将相关上下文注入到后续会话中。",
         "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd..."
       },
       "primaryCategory": "创意设计",
@@ -290,7 +290,7 @@
         "en": "agno"
       },
       "description": {
-        "zh": "大规模构建、运行和管理智能体软件。",
+        "zh": "Build, run, manage agentic software at scale.",
         "en": "Build, run, manage agentic software at scale."
       },
       "primaryCategory": "创意设计",
@@ -333,7 +333,7 @@
         "en": "claude-code-mcp"
       },
       "description": {
-        "zh": "基于模型上下文协议（MCP）的服务器，配合 Claude Code 使用。这些工具显著增强了 Claude Code 的功能，使其能够与您的文件系统、Web 浏览器等进行交互。",
+        "zh": "基于模型上下文协议（）的服务器，配合   使用。这些工具显著增强了   的功能，使其能够与您的文件系统、 浏览器等进行交互。",
         "en": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with yo..."
       },
       "primaryCategory": "创意设计",
@@ -382,7 +382,7 @@
         "en": "datawrapper-mcp"
       },
       "description": {
-        "zh": "一个用于通过 AI 助手创建 Datawrapper 图表的模型上下文协议（MCP）服务器。",
+        "zh": "一个用于通过  助手创建  图表的模型上下文协议（）服务器。",
         "en": "A Model Context Protocol (MCP) server for creating Datawrapper charts using AI assistants."
       },
       "primaryCategory": "创意设计",
@@ -430,7 +430,7 @@
         "en": "multi_mcp"
       },
       "description": {
-        "zh": "专为 Claude Code 设计的多模型聊天、代码审查与分析 MCP 服务器",
+        "zh": "专为   设计的多模型聊天、代码审查与分析  服务器",
         "en": "Multi-Model chat, code review and analysis MCP Server for Claude Code"
       },
       "primaryCategory": "创意设计",
@@ -490,7 +490,7 @@
         "en": "Multi-Modal-Chat"
       },
       "description": {
-        "zh": "基于 Vercel AI SDK 与 LangGraph.js 的多模态 Next.js 聊天应用",
+        "zh": "基于    与 . 的多模态 . 聊天应用",
         "en": "Multi-Modal Next.js Chat App with Vercel AI SDK & LangGraph.js"
       },
       "primaryCategory": "创意设计",
@@ -596,7 +596,7 @@
         "en": "silo"
       },
       "description": {
-        "zh": "一款专为 iOS 设计的私人 AI 助手。可与大语言模型（LLM）自由对话，无追踪、无审查。完全本地化并在设备端运行，无需联网。",
+        "zh": "一款专为  设计的私人  助手。可与大语言模型（）自由对话，无追踪、无审查。完全本地化并在设备端运行，无需联网。",
         "en": "a private ai assistant for iOS. Chat with LLMs with no tracking or censorship. Local and completely on-device, no internet required."
       },
       "primaryCategory": "创意设计",
@@ -642,7 +642,7 @@
         "en": "ai-ads-agent"
       },
       "description": {
-        "zh": "AI 广告智能体，可自动化执行跨 Google Ads、Meta Ads、LinkedIn Ads 和 TikTok Ads 的广告活动。支持创建广告系列、读取实时绩效数据、基于真实 CPC 数据进行关键词调研，并优化",
+        "zh": "广告智能体，可自动化执行跨  、 、  和   的广告活动。支持创建广告系列、读取实时绩效数据、基于真实  数据进行关键词调研，并优化",
         "en": "AI advertising agents that automates ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. Creates campaigns, reads live performa..."
       },
       "primaryCategory": "广告营销推广",
@@ -683,7 +683,7 @@
         "en": "ai agents for beginners"
       },
       "description": {
-        "zh": "12 节入门课程，助您开启 AI 智能体构建之旅",
+        "zh": "12 Lessons to Get Started Building AI Agents",
         "en": "12 Lessons to Get Started Building AI Agents"
       },
       "primaryCategory": "创意设计",
@@ -735,7 +735,7 @@
         "en": "awesome claude skills"
       },
       "description": {
-        "zh": "精选的 Claude Skills、资源及工具列表，用于定制 Claude AI 工作流",
+        "zh": "精选的  、资源及工具列表，用于定制   工作流",
         "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
       },
       "primaryCategory": "创意设计",
@@ -790,7 +790,7 @@
         "en": "Awesome-MCP-ZH"
       },
       "description": {
-        "zh": "MCP 资源精选、MCP 指南、Claude MCP、MCP 服务器与 MCP 客户端",
+        "zh": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
         "en": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients"
       },
       "primaryCategory": "创意设计",
@@ -841,7 +841,7 @@
         "en": "Awesome MCP ZH"
       },
       "description": {
-        "zh": "MCP 资源精选、MCP 指南、Claude MCP、MCP 服务器、MCP 客户端",
+        "zh": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
         "en": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients"
       },
       "primaryCategory": "创意设计",
@@ -892,7 +892,7 @@
         "en": "claude code guide"
       },
       "description": {
-        "zh": "Claude Code 指南 - 配置、命令、工作流、智能体、技能及实用技巧",
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
         "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
       },
       "primaryCategory": "创意设计",
@@ -953,7 +953,7 @@
         "en": "composio"
       },
       "description": {
-        "zh": "Composio 提供 1000+ 工具包、工具搜索、上下文管理、身份认证及沙盒工作台，助力您构建能将意图转化为行动的 AI 智能体。",
+        "zh": "提供 1000+ 工具包、工具搜索、上下文管理、身份认证及沙盒工作台，助力您构建能将意图转化为行动的  智能体。",
         "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn in..."
       },
       "primaryCategory": "创意设计",
@@ -1009,7 +1009,7 @@
         "en": "everything claude code"
       },
       "description": {
-        "zh": "智能体效能优化系统。为 Claude Code、Codex、Cowork 及更多工具提供技能、直觉、记忆、安全及以研究为先的开发能力。",
+        "zh": "智能体效能优化系统。为  、、 及更多工具提供技能、直觉、记忆、安全及以研究为先的开发能力。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowo..."
       },
       "primaryCategory": "创意设计",
@@ -1059,7 +1059,7 @@
         "en": "gemini cli"
       },
       "description": {
-        "zh": "一款开源 AI 智能体，将 Gemini 的强大功能直接带入您的终端。",
+        "zh": "一款开源  智能体，将  的强大功能直接带入您的终端。",
         "en": "An open-source AI agent that brings the power of Gemini directly into your terminal."
       },
       "primaryCategory": "创意设计",
@@ -1104,7 +1104,7 @@
         "en": "AgentGPT"
       },
       "description": {
-        "zh": "🤖 在浏览器中组装、配置和部署自主 AI 智能体。",
+        "zh": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
         "en": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser."
       },
       "primaryCategory": "创意设计",
@@ -1165,7 +1165,7 @@
         "en": "anything-llm"
       },
       "description": {
-        "zh": "一体化桌面及 Docker AI 应用程序，内置 RAG、AI 智能体、无代码智能体构建器、MCP 兼容性等功能。",
+        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
         "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
       },
       "primaryCategory": "创意设计",
@@ -1224,7 +1224,7 @@
         "en": "Prompt Engineering Guide"
       },
       "description": {
-        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（RAG）及 AI 智能体相关的指南、论文、教程、代码笔记本和资源。",
+        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（）及  智能体相关的指南、论文、教程、代码笔记本和资源。",
         "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
       },
       "primaryCategory": "创意设计",
@@ -1273,7 +1273,7 @@
         "en": "Prompt-Engineering-Guide"
       },
       "description": {
-        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（RAG）及 AI 智能体相关的指南、论文、教程、代码笔记本和资源。",
+        "zh": "🐙 提供提示工程、上下文工程、检索增强生成（）及  智能体相关的指南、论文、教程、代码笔记本和资源。",
         "en": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents."
       },
       "primaryCategory": "创意设计",
@@ -1322,7 +1322,7 @@
         "en": "claude-code-guide"
       },
       "description": {
-        "zh": "Claude Code 指南 - 设置、命令、工作流、智能体、技能及技巧",
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
         "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
       },
       "primaryCategory": "创意设计",
@@ -1383,7 +1383,7 @@
         "en": "firecrawl"
       },
       "description": {
-        "zh": "🔥 专为 AI 打造的网页数据 API - 将整个网站转换为适用于大语言模型的 Markdown 或结构化数据",
+        "zh": "🔥 专为  打造的网页数据  - 将整个网站转换为适用于大语言模型的  或结构化数据",
         "en": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
       },
       "primaryCategory": "创意设计",
@@ -1494,7 +1494,7 @@
         "en": "everything-claude-code"
       },
       "description": {
-        "zh": "智能体性能优化系统。为 Claude Code、Codex、Cowork 及更多工具提供技能、直觉、记忆、安全及研究优先的开发能力。",
+        "zh": "智能体性能优化系统。为  、、 及更多工具提供技能、直觉、记忆、安全及研究优先的开发能力。",
         "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowo..."
       },
       "primaryCategory": "创意设计",
@@ -1548,7 +1548,7 @@
         "en": "awesome-claude-skills"
       },
       "description": {
-        "zh": "精选的 Claude 技能、资源和工具列表，用于定制 Claude AI 工作流",
+        "zh": "精选的  技能、资源和工具列表，用于定制   工作流",
         "en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows"
       },
       "primaryCategory": "创意设计",
@@ -1603,7 +1603,7 @@
         "en": "oh my opencode"
       },
       "description": {
-        "zh": "最佳智能体框架",
+        "zh": "the best agent harness",
         "en": "the best agent harness"
       },
       "primaryCategory": "创意设计",
@@ -1718,7 +1718,7 @@
         "en": "AutoClaw"
       },
       "description": {
-        "zh": "用AI控制浏览器自动化，基于Chrome Debugger API的本地浏览器控制，一次授权可控制所有标签页和网页。",
+        "zh": "用控制浏览器自动化，基于  的本地浏览器控制，一次授权可控制所有标签页和网页。",
         "en": "AI-powered browser automation tool based on Chrome Debugger API, controlling all tabs and pages with one-time authorization."
       },
       "primaryCategory": "跨境电商",
@@ -1769,7 +1769,7 @@
         "en": "Claude by Anthropic"
       },
       "description": {
-        "zh": "Anthropic开发的AI助手，专为问题解决者设计",
+        "zh": "开发的助手，专为问题解决者设计",
         "en": "Anthropic开发的AI助手，专为问题解决者设计"
       },
       "primaryCategory": "创意设计",
@@ -1802,7 +1802,7 @@
         "en": "GitHub Copilot"
       },
       "description": {
-        "zh": "GitHub开发的AI编程助手，支持多种工作流和集成",
+        "zh": "开发的编程助手，支持多种工作流和集成",
         "en": "GitHub开发的AI编程助手，支持多种工作流和集成"
       },
       "primaryCategory": "智能母体",
@@ -1835,7 +1835,7 @@
         "en": "LangChain"
       },
       "description": {
-        "zh": "可靠智能体开发平台，用于构建LLM驱动的应用程序",
+        "zh": "可靠智能体开发平台，用于构建驱动的应用程序",
         "en": "可靠智能体开发平台，用于构建LLM驱动的应用程序"
       },
       "primaryCategory": "智能母体",
@@ -1868,7 +1868,7 @@
         "en": "Azure AutoGen"
       },
       "description": {
-        "zh": "微软开发的智能体编程框架，用于创建多智能体AI应用",
+        "zh": "微软开发的智能体编程框架，用于创建多智能体应用",
         "en": "微软开发的智能体编程框架，用于创建多智能体AI应用"
       },
       "primaryCategory": "智能母体",
@@ -1967,7 +1967,7 @@
         "en": "Skills.sh"
       },
       "description": {
-        "zh": "开放智能体技能生态系统，提供可重用的AI智能体能力",
+        "zh": "开放智能体技能生态系统，提供可重用的智能体能力",
         "en": "开放智能体技能生态系统，提供可重用的AI智能体能力"
       },
       "primaryCategory": "创意设计",
@@ -2000,7 +2000,7 @@
         "en": "CoWork.com"
       },
       "description": {
-        "zh": "独立的AI插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台",
+        "zh": "独立的插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台",
         "en": "独立的AI插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台"
       },
       "primaryCategory": "创意设计",
@@ -2033,7 +2033,7 @@
         "en": "自主智能体框架"
       },
       "description": {
-        "zh": "开源自主智能体框架集合，提供构建自定义AI智能体的工具和资源",
+        "zh": "开源自主智能体框架集合，提供构建自定义智能体的工具和资源",
         "en": "开源自主智能体框架集合，提供构建自定义AI智能体的工具和资源"
       },
       "primaryCategory": "创意设计",
