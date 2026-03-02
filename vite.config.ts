@@ -18,7 +18,7 @@ export default defineConfig(({mode}) => {
             res.setHeader('Access-Control-Allow-Origin', '*');
             
             try {
-              // 优先读取已审核数据
+              // 优先读取已审核数据 + 智能母体
               let data;
               try {
                 data = fs.readFileSync(path.join(__dirname, 'src/data/approved-resources.json'), 'utf-8');
@@ -29,11 +29,18 @@ export default defineConfig(({mode}) => {
               const resources = JSON.parse(data);
               const simplifiedData = (resources.resources || resources).map((item: any) => ({
                 id: item.id,
-                name: item.title,
-                desc: item.description,
-                cat: item.primaryCategory,
-                type: item.secondaryCategory,
-                url: item.downloadUrl
+                name: item.title?.zh || item.title?.en || item.title || '',
+                nameEn: item.title?.en || item.title?.zh || item.title || '',
+                desc: item.description?.zh || item.description?.en || item.description || '',
+                descEn: item.description?.en || item.description?.zh || item.description || '',
+                category: item.primaryCategory || '',
+                type: item.secondaryCategory || '',
+                url: item.downloadUrl || item.url || '',
+                version: item.version || '1.0.0',
+                tags: item.tags || item.capabilityTags || [],
+                imageUrl: item.imageUrl || '',
+                videoUrl: item.videoPreviewUrl || '',
+                externalLinks: item.externalLinks || []
               }));
               res.end(JSON.stringify(simplifiedData));
             } catch (e) {

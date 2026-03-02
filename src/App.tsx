@@ -17,6 +17,9 @@ import { useLanguage } from './i18n/LanguageContext';
 import { useEffect } from 'react';
 import approvedData from './data/approved-resources.json';
 
+// 从 MOCK_RESOURCES 中提取 AI 硬件数据
+const AI_HARDWARE_MOCK = MOCK_RESOURCES.filter((r: any) => r.primaryCategory === 'AI 硬件');
+
 // 尝试加载已审核的数据
 const APPROVED_RESOURCES = (approvedData as { resources?: any[] }).resources || [];
 
@@ -25,9 +28,9 @@ function HomePage() {
   const [activeSecondary, setActiveSecondary] = useState<ResourceType | 'all'>('all');
   const { t } = useLanguage();
   
-  // 优先使用已审核数据，但智能母体始终保留
+  // 优先使用已审核数据，但智能母体和AI硬件始终保留
   const resources = APPROVED_RESOURCES.length > 0 
-    ? [...MOTHERBODY_RESOURCES, ...APPROVED_RESOURCES.filter((r: any) => r.primaryCategory !== '智能母体')] 
+    ? [...MOTHERBODY_RESOURCES, ...AI_HARDWARE_MOCK, ...APPROVED_RESOURCES.filter((r: any) => r.primaryCategory !== '智能母体')] 
     : MOCK_RESOURCES;
 
   const filteredResources = useMemo(() => {
