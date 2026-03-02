@@ -1,113 +1,78 @@
-# 隐私政策
+import React from 'react';
+import { Shield, Eye, Lock, Database } from 'lucide-react';
 
-**最后更新：2024年3月**
+export default function PrivacyPage() {
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+      <div className="max-w-4xl mx-auto px-4 py-16">
+        <div className="text-center mb-12">
+          <Shield className="w-16 h-16 mx-auto text-blue-600 mb-4" />
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">隐私政策</h1>
+          <p className="text-gray-600">最后更新：2024年3月</p>
+        </div>
 
----
+        <div className="prose prose-lg max-w-none">
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4 flex items-center">
+              <Eye className="w-6 h-6 mr-2 text-blue-600" />
+              概述
+            </h2>
+            <p className="text-gray-700 leading-relaxed">
+              AUTO-BUILDING（以下简称"本平台"）高度重视用户隐私。本隐私政策说明我们在您使用本平台服务时如何收集、使用、存储和保护您的个人信息。
+            </p>
+          </section>
 
-## 概述
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4 flex items-center">
+              <Database className="w-6 h-6 mr-2 text-blue-600" />
+              信息收集
+            </h2>
+            <p className="text-gray-700 mb-4">我们收集以下信息：</p>
+            <ul className="list-disc pl-6 space-y-2 text-gray-700">
+              <li><strong>提交的资源信息</strong> - 用户主动提交，用于审核、展示、搜索</li>
+              <li><strong>邮箱地址</strong> - 用户主动填写（提交资源时），用于审核通知、回复联系</li>
+              <li><strong>浏览记录</strong> - 匿名统计，用于改进服务</li>
+            </ul>
+          </section>
 
-AUTO-BUILDING（以下简称"本平台"）高度重视用户隐私。本隐私政策说明我们在您使用本平台服务时如何收集、使用、存储和保护您的个人信息。
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4 flex items-center">
+              <Lock className="w-6 h-6 mr-2 text-blue-600" />
+              信息使用
+            </h2>
+            <p className="text-gray-700 leading-relaxed">
+              我们使用收集的信息为您提供服务，包括：展示您提交的资源、
+              向您发送审核通知、改进平台功能和分析使用情况。我们不会将您的个人信息出售给第三方。
+            </p>
+          </section>
 
----
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">数据安全</h2>
+            <p className="text-gray-700 leading-relaxed">
+              我们采用行业标准的安全措施保护您的数据，包括加密存储、访问控制和定期安全审计。
+              但请注意，互联网传输并非完全安全，我们无法保证绝对安全。
+            </p>
+          </section>
 
-## 信息收集
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">您的权利</h2>
+            <p className="text-gray-700 leading-relaxed">
+              您有权访问、更正或删除您的个人信息。如需帮助，请联系我们。
+            </p>
+          </section>
 
-### 我们收集什么
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">联系我们</h2>
+            <p className="text-gray-700 leading-relaxed">
+              如有隐私相关问题，请联系：contact@auto-building.example
+            </p>
+          </section>
 
-| 信息类型 | 收集方式 | 用途 |
-|----------|----------|------|
-| **提交的资源信息** | 用户主动提交 | 审核、展示、搜索 |
-| **邮箱地址** | 用户主动填写（提交资源时） | 审核通知、回复联系 |
-| **浏览器信息** | 自动收集 | 网站统计、分析 |
-| **GitHub 授权信息** | OAuth 授权 | 获取用户公开资料（可选） |
-
-### 我们不收集
-
-- ❌ 不收集用户密码
-- ❌ 不收集敏感个人信息（身份证、银行卡等）
-- ❌ 不使用 Cookie 进行追踪
-- ❌ 不向第三方出售用户数据
-
----
-
-## 信息使用
-
-您提交的信息将用于：
-
-1. **资源审核** - 审核您提交的资源是否符合收录标准
-2. **展示服务** - 在网站、CLI 工具中展示资源信息
-3. **社区沟通** - 通过邮箱与您沟通审核进展
-4. **数据分析** - 改进平台功能和用户体验
-
----
-
-## 信息存储
-
-- 📁 所有数据存储在加密的云端数据库
-- 🔒 数据库访问仅限授权管理员
-- 🗓️ 历史数据保留期限：用户删除账户后 30 天内
-
----
-
-## 信息共享
-
-我们不会向任何第三方出售、交易或转让您的个人信息，除非：
-
-- 🔄 **服务提供商** - 如云服务器供应商（仅限必要服务）
-- ⚖️ **法律要求** - 如法院传票或政府要求
-
----
-
-## 用户权利
-
-根据适用法律，您享有以下权利：
-
-| 权利 | 说明 |
-|------|------|
-| 📖 **访问权** | 查看我们持有的您的个人信息 |
-| ✏️ **更正权** | 纠正不准确的信息 |
-| 🗑️ **删除权** | 要求删除您的个人信息 |
-| ⛔ **撤回同意** | 撤回数据处理的同意 |
-
-**行使权利请联系我们**：admin@auto-building.com
-
----
-
-## 儿童隐私
-
-本平台不面向 13 岁以下儿童，我们不会故意收集其个人信息。
-
----
-
-## 安全措施
-
-我们采用行业标准的安全措施保护您的数据：
-
-- 🔐 HTTPS 加密传输
-- 🛡️ 防火墙保护
-- 🔑 加密存储敏感信息
-- 👥 最小权限原则
-
----
-
-## 第三方链接
-
-本平台可能包含第三方网站链接。我们不对这些网站的隐私实践负责，建议您阅读其隐私政策。
-
----
-
-## 政策变更
-
-我们可能随时更新本隐私政策。重大变更将通过网站公告通知。
-
----
-
-## 联系我们
-
-如对本隐私政策有任何疑问，请联系：
-
-📧 **admin@auto-building.com**
-
----
-
-*我们承诺尊重并保护每一位用户的隐私权。*
+          <section className="mt-12 pt-8 border-t text-center text-gray-500 text-sm">
+            <p>© 2024 AUTO-BUILDING. All rights reserved.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  );
+}

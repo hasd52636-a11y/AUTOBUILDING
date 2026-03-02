@@ -1,84 +1,86 @@
-# 关于我们
+import React from 'react';
+import { BookOpen, Shield, Mail } from 'lucide-react';
 
-## 🧠 AUTO-BUILDING - 智能体资源枢纽
+export default function AboutPage() {
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
+      <div className="max-w-4xl mx-auto px-4 py-16">
+        <div className="text-center mb-12">
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">关于 AUTO-BUILDING</h1>
+          <p className="text-xl text-gray-600">智能体资源枢纽</p>
+        </div>
 
-AUTO-BUILDING 是由一群技术与理想主义者共同构建的 AI 自动化资源社区。我们致力于收录并分享经过行业精英实践验证的自动化软件、技能（Skill）、MCP 协议工具及提示词模板，帮助每一位先行者快速搭建属于自己的智能工作流。
+        <div className="prose prose-lg max-w-none">
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">我们的使命</h2>
+            <p className="text-gray-700 leading-relaxed">
+              AUTO-BUILDING 是由一群技术与理想主义者共同构建的 AI 自动化资源社区。
+              我们致力于收录并分享经过行业精英实践验证的自动化软件、技能（Skill）、
+              MCP 协议工具及提示词模板，帮助每一位先行者快速搭建属于自己的智能工作流。
+            </p>
+          </section>
 
----
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">为什么选择我们</h2>
+            <ul className="space-y-3">
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2">✓</span>
+                <span className="text-gray-700">精选高质量资源，经过人工审核</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2">✓</span>
+                <span className="text-gray-700">自动采集最新 AI 工具，保持内容时效</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2">✓</span>
+                <span className="text-gray-700">中英文双语支持，方便国内外用户</span>
+              </li>
+              <li className="flex items-start">
+                <span className="text-blue-600 mr-2">✓</span>
+                <span className="text-gray-700">开源免费，持续更新</span>
+              </li>
+            </ul>
+          </section>
 
-## 我们的使命
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">资源分类</h2>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              {[
+                { name: '智能母体', color: 'bg-purple-100 text-purple-700' },
+                { name: '跨境电商', color: 'bg-blue-100 text-blue-700' },
+                { name: '视频电商', color: 'bg-pink-100 text-pink-700' },
+                { name: '自媒体运营', color: 'bg-yellow-100 text-yellow-700' },
+                { name: '广告营销', color: 'bg-red-100 text-red-700' },
+                { name: 'AI 硬件', color: 'bg-green-100 text-green-700' },
+                { name: '创意设计', color: 'bg-indigo-100 text-indigo-700' },
+                { name: '社群福利', color: 'bg-orange-100 text-orange-700' }
+              ].map((cat) => (
+                <div key={cat.name} className={`px-4 py-2 rounded-lg ${cat.color} text-center text-sm font-medium`}>
+                  {cat.name}
+                </div>
+              ))}
+            </div>
+          </section>
 
-**让 AI 践行一切可行的自动化验证**
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 mb-4">联系我们</h2>
+            <div className="flex flex-col gap-3 text-gray-700">
+              <div className="flex items-center">
+                <Mail className="w-5 h-5 mr-3 text-blue-600" />
+                <span>邮箱：contact@auto-building.example</span>
+              </div>
+              <div className="flex items-center">
+                <BookOpen className="w-5 h-5 mr-3 text-blue-600" />
+                <span>GitHub：github.com/hasd52636-a11y/AUTOBUILDING</span>
+              </div>
+            </div>
+          </section>
 
-我们相信，未来属于那些率先将 AI 能力落地到实际工作场景的人。AUTO-BUILDING 致力于构建一个高效、开放、可持续的智能体资源生态系统，让每一位开发者、创业者、企业都能快速获取经过验证的自动化工具，拒绝重复造轮子。
-
----
-
-## 核心价值
-
-### 🔥 先行者红利
-我们只收录经过行业精英长时间自用实践后推荐的优质资源，确保每一条内容都经过真实场景验证。
-
-### ⚡ 开箱即用
-所有资源均提供官方直达链接或网盘高速下载，无需经过中间商，下载即用，部署即跑。
-
-### 🛠️ 持续迭代
-每日自动采集全球最新、最热的 Agent、Skill、MCP、Prompt 资源，分类清晰，排序有序，确保你始终站在自动化浪潮前沿。
-
-### 🌐 社区共建
-开放提交审核机制人人可贡献，审核通过后自动发布到网站和 CLI 工具，形成良性循环的资源生态。
-
----
-
-## 资源体系
-
-| 分类 | 说明 |
-|------|------|
-| **智能母体** | OpenClaw、Claude、GPT、Minimax 等具有独立工作处理能力的底层智能体平台 |
-| **智能体 (Agent)** | 在智能母体上构建的特定任务执行智能体 |
-| **技能 (Skill)** | 可复用的自动化工作流脚本 |
-| **MCP 协议** | Model Context Protocol 标准化工具服务器 |
-| **提示词 (Prompt)** | 预设的角色模板与问答范式 |
-| **开源软件** | 独立的 AI 相关开源工具项目 |
-
----
-
-## 开发者工具
-
-除了网页端资源库，我们还提供**本地终端 CLI 工具**，一行命令即可按分类检索资源：
-
-```bash
-autobuild search 视频剪辑
-autobuild list 跨境电商 agent
-autobuild get <资源ID>
-```
-
----
-
-## 加入我们
-
-AUTO-BUILDING 重点寻找以下领域的小伙伴：
-
-- 🛒 **电商从业者** - 跨境电商、视频电商、自媒体运营
-- 💻 **AI 开发者** - Agent、Skill、MCP 开发爱好者
-- 📈 **营销推广** - 广告投放、SEO、增长黑客
-- 🎨 **产品设计** - AI 辅助设计工具探索者
-- 🏭 **生产制造** - 工业自动化、智能硬件
-
-**贡献方式**：
-1. 提交你发现的高质量自动化资源
-2. 为现有资源提交翻译或优化建议
-3. 参与社区讨论，分享实战经验
-4. 贡献代码或脚本
-
----
-
-## 联系我们
-
-- 📧 邮箱：admin@auto-building.com
-- 🌐 网站：https://auto-building.vercel.app
-- 💬 社群：扫码加入核心交流群
-
----
-
-*用 AI 践行一切可行的自动化验证，让先行者吃肉。*
+          <section className="mt-12 pt-8 border-t text-center text-gray-500 text-sm">
+            <p>© 2024 AUTO-BUILDING. All rights reserved.</p>
+          </section>
+        </div>
+      </div>
+    </div>
+  );
+}
