@@ -12,22 +12,23 @@ import ReviewPage from './pages/ReviewPage';
 import AboutPage from './pages/AboutPage';
 import TermsPage from './pages/TermsPage';
 import PrivacyPage from './pages/PrivacyPage';
-import { MOCK_RESOURCES, ResourceType, PRIMARY_CATEGORIES } from './data/resources';
+import { MOCK_RESOURCES, ResourceType, PRIMARY_CATEGORIES, MOTHERBODY_RESOURCES } from './data/resources';
 import { useLanguage } from './i18n/LanguageContext';
 import { useEffect } from 'react';
 import approvedData from './data/approved-resources.json';
 
 // 尝试加载已审核的数据
 const APPROVED_RESOURCES = (approvedData as { resources?: any[] }).resources || [];
-console.log('APPROVED_RESOURCES count:', APPROVED_RESOURCES.length);
 
 function HomePage() {
   const [activePrimary, setActivePrimary] = useState<string>('all');
   const [activeSecondary, setActiveSecondary] = useState<ResourceType | 'all'>('all');
   const { t } = useLanguage();
   
-  // 优先使用已审核数据，如果没有则用mock数据
-  const resources = APPROVED_RESOURCES.length > 0 ? APPROVED_RESOURCES : MOCK_RESOURCES;
+  // 优先使用已审核数据，但智能母体始终保留
+  const resources = APPROVED_RESOURCES.length > 0 
+    ? [...MOTHERBODY_RESOURCES, ...APPROVED_RESOURCES.filter((r: any) => r.primaryCategory !== '智能母体')] 
+    : MOCK_RESOURCES;
 
   const filteredResources = useMemo(() => {
     return resources.filter((resource: any) => {
