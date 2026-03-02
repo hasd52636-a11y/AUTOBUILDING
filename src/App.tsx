@@ -19,6 +19,7 @@ import approvedData from './data/approved-resources.json';
 
 // 尝试加载已审核的数据
 const APPROVED_RESOURCES = (approvedData as { resources?: any[] }).resources || [];
+console.log('APPROVED_RESOURCES count:', APPROVED_RESOURCES.length);
 
 function HomePage() {
   const [activePrimary, setActivePrimary] = useState<string>('all');
