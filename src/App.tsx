@@ -9,6 +9,9 @@ import GuideSection from './components/GuideSection';
 import JoinUs from './components/JoinUs';
 import CommunityWelfare from './components/CommunityWelfare';
 import ReviewPage from './pages/ReviewPage';
+import AboutPage from './pages/AboutPage';
+import TermsPage from './pages/TermsPage';
+import PrivacyPage from './pages/PrivacyPage';
 import { MOCK_RESOURCES, ResourceType, PRIMARY_CATEGORIES } from './data/resources';
 import { useLanguage } from './i18n/LanguageContext';
 import { useEffect } from 'react';
@@ -108,6 +111,9 @@ export default function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/review" element={<ReviewPage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/terms" element={<TermsPage />} />
+        <Route path="/privacy" element={<PrivacyPage />} />
       </Routes>
     </BrowserRouter>
   );

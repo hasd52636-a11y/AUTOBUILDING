@@ -1,62 +1,6 @@
 {
   "resources": [
     {
-      "id": "auto-1772454871652-5276idbmq",
-      "title": {
-        "zh": "langch人工智能n",
-        "en": "langchain"
-      },
-      "description": {
-        "zh": "🦜🔗 The 平台 for reliable 智能体s.",
-        "en": "🦜🔗 The platform for reliable agents."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "agent",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai",
-        "langchain",
-        "langgraph",
-        "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/langchain-ai/langchain",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/langchain-ai/langchain",
-      "metrics": {
-        "stars": 127938,
-        "forks": 21015,
-        "trendScore": 169968
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
       "id": "auto-1772452078068-ryehbrzn7",
       "title": {
         "zh": "langchain",
@@ -279,50 +223,6 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772454871652-qg4ghrhm1",
-      "title": {
-        "zh": "gemini cli",
-        "en": "gemini-cli"
-      },
-      "description": {
-        "zh": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "en": "An open-source AI agent that brings the power of Gemini directly into your terminal."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "agent",
-      "capabilityTags": [
-        "ai",
-        "ai-agents",
-        "cli",
-        "gemini",
-        "gemini-api",
-        "mcp-client",
-        "mcp-server"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/google-gemini/gemini-cli",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/google-gemini/gemini-cli",
-      "metrics": {
-        "stars": 96200,
-        "forks": 11804,
-        "trendScore": 119808
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
       "id": "auto-1772454871652-qg4ghrhm1",
@@ -636,64 +536,6 @@
       "scrapedAt": "2026-03-02T11:47:58.068Z"
     },
     {
-      "id": "auto-1772454871652-zz6d9sk81",
-      "title": {
-        "zh": "firecrawl",
-        "en": "firecrawl"
-      },
-      "description": {
-        "zh": "🔥 The Web Data 接口 for 人工智能 - Turn entire websites into 大语言模型-ready markdown or structured data",
-        "en": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "agent",
-      "capabilityTags": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "markdown",
-        "scraper",
-        "scraping",
-        "web-crawler",
-        "web-data",
-        "web-data-extraction",
-        "web-scraper",
-        "web-scraping",
-        "web-search",
-        "webscraping",
-        "API集成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/firecrawl/firecrawl",
-      "metrics": {
-        "stars": 87300,
-        "forks": 6201,
-        "trendScore": 99702
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
       "id": "auto-1772452078068-ogiuwei4g",
       "title": {
         "zh": "firecrawl",
@@ -971,7 +813,7 @@
       "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
-      "id": "auto-1772454871652-yxuqzk5w1",
+      "id": "auto-1772452078068-wzbosl7ow",
       "title": {
         "zh": "browser use",
         "en": "browser-use"
@@ -998,9 +840,9 @@
       "source": "GitHub Search",
       "sourceUrl": "https://github.com/browser-use/browser-use",
       "metrics": {
-        "stars": 79361,
+        "stars": 79357,
         "forks": 9382,
-        "trendScore": 98125
+        "trendScore": 98121
       },
       "llmAnalysis": {
         "innovationPoints": [
@@ -1013,7 +855,142 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772452078068-wzbosl7ow",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79357,
+        "forks": 9382,
+        "trendScore": 98121
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772452078068-wzbosl7ow",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79357,
+        "forks": 9382,
+        "trendScore": 98121
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772452078068-wzbosl7ow",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79357,
+        "forks": 9382,
+        "trendScore": 98121
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
     },
     {
       "id": "auto-1772452078068-nvkoclz48",
@@ -1562,6 +1539,57 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T12:34:44.871Z"
+    },
+    {
+      "id": "auto-1772454871652-5ndhxou35",
+      "title": {
+        "zh": "ai agents for beginners",
+        "en": "ai-agents-for-beginners"
+      },
+      "description": {
+        "zh": "12 Lessons to Get Started Building AI Agents",
+        "en": "12 Lessons to Get Started Building AI Agents"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "prompt",
+      "capabilityTags": [
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "ai-agents",
+        "ai-agents-framework",
+        "autogen",
+        "generative-ai",
+        "semantic-kernel"
+      ],
+      "applicableCategories": [
+        "广告营销推广",
+        "创意设计"
+      ],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/microsoft/ai-agents-for-beginners",
+      "metrics": {
+        "stars": 52378,
+        "forks": 18257,
+        "trendScore": 88892
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "广告营销推广",
+          "创意设计"
+        ]
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
       "id": "auto-1772452078068-nvkoclz48",
@@ -2220,6 +2248,66 @@
       "scrapedAt": "2026-03-02T12:34:29.366Z"
     },
     {
+      "id": "auto-1772454869366-jowfo58jq",
+      "title": {
+        "zh": "claude code guide",
+        "en": "claude-code-guide"
+      },
+      "description": {
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "prompt",
+      "capabilityTags": [
+        "ai",
+        "ai-agent",
+        "ai-agent-tools",
+        "claude",
+        "claude-ai",
+        "claude-api",
+        "claude-code",
+        "claude-code-communication",
+        "claude-code-guide",
+        "claude-code-typescript",
+        "claude-commands",
+        "claude-desktop",
+        "claude-mcp",
+        "claude-sonnet",
+        "claude-sonnet-4",
+        "code",
+        "mcp",
+        "mcp-agents",
+        "mcp-tools",
+        "vscode-extension",
+        "代码生成",
+        "工作流",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
+      "metrics": {
+        "stars": 3497,
+        "forks": 325,
+        "trendScore": 4147
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
+    },
+    {
       "id": "auto-1772452082357-qbnwv7woo",
       "title": {
         "zh": "neurons",
@@ -2460,55 +2548,6 @@
         "stars": 71014,
         "forks": 7562,
         "trendScore": 86138
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-0cxnwm592",
-      "title": {
-        "zh": "everything claude code",
-        "en": "everything-claude-code"
-      },
-      "description": {
-        "zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.",
-        "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "skill",
-      "capabilityTags": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "developer-tools",
-        "llm",
-        "mcp",
-        "productivity",
-        "记忆/知识",
-        "代码生成",
-        "大语言模型",
-        "搜索"
-      ],
-      "applicableCategories": [],
-      "isUniversal": true,
-      "downloadUrl": "https://github.com/affaan-m/everything-claude-code",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/affaan-m/everything-claude-code",
-      "metrics": {
-        "stars": 56833,
-        "forks": 7014,
-        "trendScore": 70861
       },
       "llmAnalysis": {
         "innovationPoints": [
@@ -3359,6 +3398,124 @@
       "scrapedAt": "2026-03-02T11:47:56.006Z"
     },
     {
+      "id": "auto-1772452076006-ymh6e6b6b",
+      "title": {
+        "zh": "claude code guide",
+        "en": "claude-code-guide"
+      },
+      "description": {
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "ai",
+        "ai-agent",
+        "ai-agent-tools",
+        "claude",
+        "claude-ai",
+        "claude-api",
+        "claude-code",
+        "claude-code-communication",
+        "claude-code-guide",
+        "claude-code-typescript",
+        "claude-commands",
+        "claude-desktop",
+        "claude-mcp",
+        "claude-sonnet",
+        "claude-sonnet-4",
+        "code",
+        "mcp",
+        "mcp-agents",
+        "mcp-tools",
+        "vscode-extension",
+        "代码生成",
+        "工作流",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
+      "metrics": {
+        "stars": 3498,
+        "forks": 325,
+        "trendScore": 4148
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772454871652-zz6d9sk81",
+      "title": {
+        "zh": "firecrawl",
+        "en": "firecrawl"
+      },
+      "description": {
+        "zh": "🔥 The Web Data 接口 for 人工智能 - Turn entire websites into 大语言模型-ready markdown or structured data",
+        "en": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
+      },
+      "primaryCategory": "创意设计",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai",
+        "ai-agents",
+        "ai-crawler",
+        "ai-scraping",
+        "ai-search",
+        "crawler",
+        "data-extraction",
+        "html-to-markdown",
+        "llm",
+        "markdown",
+        "scraper",
+        "scraping",
+        "web-crawler",
+        "web-data",
+        "web-data-extraction",
+        "web-scraper",
+        "web-scraping",
+        "web-search",
+        "webscraping",
+        "API集成",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/firecrawl/firecrawl",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/firecrawl/firecrawl",
+      "metrics": {
+        "stars": 87300,
+        "forks": 6201,
+        "trendScore": 99702
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772452078068-3u80a8ha9",
       "title": {
         "zh": "anything llm",
@@ -3801,6 +3958,50 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T12:34:29.366Z"
+    },
+    {
+      "id": "auto-1772454871652-qg4ghrhm1",
+      "title": {
+        "zh": "gemini cli",
+        "en": "gemini-cli"
+      },
+      "description": {
+        "zh": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "en": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      },
+      "primaryCategory": "创意设计",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/google-gemini/gemini-cli",
+      "metrics": {
+        "stars": 96200,
+        "forks": 11804,
+        "trendScore": 119808
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
       "id": "auto-1772452078068-i5j70q2ct",
@@ -4557,64 +4758,6 @@
       "scrapedAt": "2026-03-02T11:47:56.732Z"
     },
     {
-      "id": "auto-1772454871652-dueu81hzh",
-      "title": {
-        "zh": "anything llm",
-        "en": "anything-llm"
-      },
-      "description": {
-        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
-        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "mcp",
-      "capabilityTags": [
-        "ai-agents",
-        "custom-ai-agents",
-        "deepseek",
-        "kimi",
-        "llama3",
-        "llm",
-        "lmstudio",
-        "local-llm",
-        "localai",
-        "mcp",
-        "mcp-servers",
-        "moonshot",
-        "multimodal",
-        "no-code",
-        "ollama",
-        "qwen3",
-        "rag",
-        "vector-database",
-        "web-scraping",
-        "代码生成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
-      "metrics": {
-        "stars": 55266,
-        "forks": 5972,
-        "trendScore": 67210
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
       "id": "auto-1772454871652-fz50qspng",
       "title": {
         "zh": "mem0",
@@ -4674,6 +4817,61 @@
       },
       "description": {
         "zh": "Composio 提供 1000+ 工具包、工具搜索、上下文管理、身份验证以及沙盒工作台，助力您构建能将意图转化为行动的 AI 智能体。",
+        "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagents",
+        "developer-tools",
+        "function-calling",
+        "gpt-4",
+        "javascript",
+        "js",
+        "llm",
+        "llmops",
+        "mcp",
+        "python",
+        "remote-mcp-server",
+        "sse",
+        "typescript",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/ComposioHQ/composio",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/ComposioHQ/composio",
+      "metrics": {
+        "stars": 27241,
+        "forks": 4460,
+        "trendScore": 36161
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
+      "id": "auto-1772454871652-2kn4y70vp",
+      "title": {
+        "zh": "composio",
+        "en": "composio"
+      },
+      "description": {
+        "zh": "Composio powers 1000+ 工具kits, 工具 搜索, 上下文 管理, 认证, and a sandboxed workbench to help you build 人工智能 智能体s that turn intent into action.",
         "en": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action."
       },
       "primaryCategory": "智能母体",
@@ -5811,42 +6009,6 @@
       "scrapedAt": "2026-03-02T11:48:02.357Z"
     },
     {
-      "id": "auto-1772454875534-7wlq4uk61",
-      "title": {
-        "zh": "edgeai for beginners",
-        "en": "edgeai-for-beginners"
-      },
-      "description": {
-        "zh": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents.",
-        "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents."
-      },
-      "primaryCategory": "创意设计",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/microsoft/edgeai-for-beginners",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/microsoft/edgeai-for-beginners",
-      "metrics": {
-        "stars": 1338,
-        "forks": 279,
-        "trendScore": 1896
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
-    },
-    {
       "id": "auto-1772452078864-urr7u8ge9",
       "title": {
         "zh": "Multi Modal Chat",
@@ -6472,56 +6634,6 @@
       },
       "description": {
         "zh": "An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local devices.",
-        "en": "An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local devices."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft",
-      "capabilityTags": [
-        "ai",
-        "api",
-        "autogen",
-        "chatgpt",
-        "gemini",
-        "google",
-        "interpreter",
-        "microsoft",
-        "multimodal",
-        "openai",
-        "rag",
-        "API集成",
-        "大语言模型"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/eliranwong/letmedoit",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/eliranwong/letmedoit",
-      "metrics": {
-        "stars": 134,
-        "forks": 26,
-        "trendScore": 186
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:33.499Z"
-    },
-    {
-      "id": "auto-1772454873499-24e8f6uet",
-      "title": {
-        "zh": "letmedoit",
-        "en": "letmedoit"
-      },
-      "description": {
-        "zh": "An advanced 人工智能 助手 that leve检索增强es the capabilities of 对话GPT 接口, Gemini Pro,  AutoGen, and open-source 大语言模型s, enabling it both to engage in conversations and to execute computing tasks on 本地 设备s.",
         "en": "An advanced AI assistant that leverages the capabilities of ChatGPT API, Gemini Pro,  AutoGen, and open-source LLMs, enabling it both to engage in conversations and to execute computing tasks on local devices."
       },
       "primaryCategory": "智能母体",
@@ -7230,6 +7342,67 @@
       "metrics": {
         "stars": 11,
         "forks": 2,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452079936-ix42j6y4s",
+      "title": {
+        "zh": "gemini java client",
+        "en": "gemini-java-client"
+      },
+      "description": {
+        "zh": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant.",
+        "en": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "agentic-workflows",
+        "ai",
+        "ai-assistant",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "gemini-cli",
+        "gemini-client",
+        "gemini-flash",
+        "gemini-pro",
+        "gemini-protocol",
+        "gemini-server",
+        "gemini3",
+        "genai",
+        "java",
+        "openclaw",
+        "文件处理",
+        "代码生成",
+        "大语言模型",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/anahata-os/gemini-java-client",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/anahata-os/gemini-java-client",
+      "metrics": {
+        "stars": 13,
+        "forks": 1,
         "trendScore": 15
       },
       "llmAnalysis": {
@@ -8815,6 +8988,65 @@
       "scrapedAt": "2026-03-02T11:48:02.357Z"
     },
     {
+      "id": "auto-1772454871652-m210jyctj",
+      "title": {
+        "zh": "claude mem",
+        "en": "claude-mem"
+      },
+      "description": {
+        "zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "anthropic",
+        "artificial-intelligence",
+        "chromadb",
+        "claude",
+        "claude-agent-sdk",
+        "claude-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "embeddings",
+        "long-term-memory",
+        "mem0",
+        "memory-engine",
+        "openmemory",
+        "rag",
+        "sqlite",
+        "supermemory",
+        "代码生成",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/thedotmack/claude-mem",
+      "metrics": {
+        "stars": 32196,
+        "forks": 2193,
+        "trendScore": 36582
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772452078068-b8p5wgz6m",
       "title": {
         "zh": "claude mem",
@@ -8920,6 +9152,50 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:48:02.357Z"
+    },
+    {
+      "id": "auto-1772454870082-jflaki01q",
+      "title": {
+        "zh": "zod to openai tool",
+        "en": "zod-to-openai-tool"
+      },
+      "description": {
+        "zh": "Easily create tools from zod schemas to use with OpenAI Assistants and Chat Completions, inspired by tRPC",
+        "en": "Easily create tools from zod schemas to use with OpenAI Assistants and Chat Completions, inspired by tRPC"
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "json-schema",
+        "openai",
+        "openai-assistants-api",
+        "openai-chat",
+        "openai-functions",
+        "openai-tools",
+        "zod"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/alvesvaren/zod-to-openai-tool",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/alvesvaren/zod-to-openai-tool",
+      "metrics": {
+        "stars": 30,
+        "forks": 2,
+        "trendScore": 34
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:30.082Z"
     },
     {
       "id": "auto-1772452076006-cp1t9l9b6",
@@ -9439,6 +9715,51 @@
       "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
+      "id": "auto-1772454871652-yxuqzk5w1",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79361,
+        "forks": 9382,
+        "trendScore": 98125
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772452078068-wzbosl7ow",
       "title": {
         "zh": "browser use",
@@ -9482,6 +9803,64 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772454871652-dueu81hzh",
+      "title": {
+        "zh": "anything llm",
+        "en": "anything-llm"
+      },
+      "description": {
+        "zh": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.",
+        "en": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "ai-agents",
+        "custom-ai-agents",
+        "deepseek",
+        "kimi",
+        "llama3",
+        "llm",
+        "lmstudio",
+        "local-llm",
+        "localai",
+        "mcp",
+        "mcp-servers",
+        "moonshot",
+        "multimodal",
+        "no-code",
+        "ollama",
+        "qwen3",
+        "rag",
+        "vector-database",
+        "web-scraping",
+        "代码生成",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/Mintplex-Labs/anything-llm",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/Mintplex-Labs/anything-llm",
+      "metrics": {
+        "stars": 55266,
+        "forks": 5972,
+        "trendScore": 67210
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
       "id": "auto-1772454871652-dueu81hzh",
@@ -9658,6 +10037,58 @@
       "scrapedAt": "2026-03-02T11:47:58.068Z"
     },
     {
+      "id": "auto-1772454871652-fz50qspng",
+      "title": {
+        "zh": "mem0",
+        "en": "mem0"
+      },
+      "description": {
+        "zh": "Universal 记忆 layer for 人工智能 智能体s",
+        "en": "Universal memory layer for AI Agents"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management",
+        "记忆/知识"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/mem0ai/mem0",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/mem0ai/mem0",
+      "metrics": {
+        "stars": 48425,
+        "forks": 5388,
+        "trendScore": 59201
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772452078068-ceeoidc8d",
       "title": {
         "zh": "mem0",
@@ -9712,6 +10143,48 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772454871652-lidrorfk8",
+      "title": {
+        "zh": "crew人工智能",
+        "en": "crewAI"
+      },
+      "description": {
+        "zh": "框架 for orchestrating role-playing, autonomous 人工智能 智能体s. By fostering collaborative intelligence, Crew人工智能 empowers 智能体s to work together seamlessly, tackling complex tasks.",
+        "en": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagentframework",
+        "llms"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/crewAIInc/crewAI",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/crewAIInc/crewAI",
+      "metrics": {
+        "stars": 44962,
+        "forks": 6034,
+        "trendScore": 57030
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
       "id": "auto-1772452078068-hpr54rruh",
@@ -9816,6 +10289,60 @@
       "scrapedAt": "2026-03-02T11:47:58.068Z"
     },
     {
+      "id": "auto-1772454871652-m8wiy7fk5",
+      "title": {
+        "zh": "智能体GPT",
+        "en": "AgentGPT"
+      },
+      "description": {
+        "zh": "🤖 Assemble, configure, and deploy autonomous 人工智能 智能体s in your browser.",
+        "en": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "agent",
+        "agentgpt",
+        "agents",
+        "agi",
+        "ai",
+        "ai-agents",
+        "autogpt",
+        "baby-agi",
+        "gpt",
+        "langchain",
+        "llm",
+        "next",
+        "openai",
+        "t3",
+        "t3-stack",
+        "浏览器自动化",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/reworkd/AgentGPT",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/reworkd/AgentGPT",
+      "metrics": {
+        "stars": 35757,
+        "forks": 9442,
+        "trendScore": 54641
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772454871652-5m5tz7bk2",
       "title": {
         "zh": "agno",
@@ -9851,270 +10378,6 @@
           "开源可定制"
         ],
         "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-ia8n0uhqx",
-      "title": {
-        "zh": "oh my opencode",
-        "en": "oh-my-opencode"
-      },
-      "description": {
-        "zh": "the best agent harness",
-        "en": "the best agent harness"
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "ai",
-        "ai-agents",
-        "amp",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "claude-skills",
-        "cursor",
-        "gemini",
-        "ide",
-        "openai",
-        "opencode",
-        "orchestration",
-        "tui",
-        "typescript",
-        "代码生成"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/code-yeongyu/oh-my-opencode",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/code-yeongyu/oh-my-opencode",
-      "metrics": {
-        "stars": 36097,
-        "forks": 2730,
-        "trendScore": 41557
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772452078068-tshnkd600",
-      "title": {
-        "zh": "Perplexica",
-        "en": "Perplexica"
-      },
-      "description": {
-        "zh": "Perplexica is an AI-powered answering engine.",
-        "en": "Perplexica is an AI-powered answering engine."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "ai-agents",
-        "ai-search-engine",
-        "answering-engine",
-        "artificial-intelligence",
-        "llm",
-        "machine-learning",
-        "open-source-ai-search-engine",
-        "perplexica",
-        "rag",
-        "search-engine",
-        "searxng",
-        "searxng-copilot",
-        "self-hosted-ai"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/ItzCrazyKns/Perplexica",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ItzCrazyKns/Perplexica",
-      "metrics": {
-        "stars": 29178,
-        "forks": 3085,
-        "trendScore": 35348
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于跨境电商场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T11:47:58.068Z"
-    },
-    {
-      "id": "auto-1772454871652-5g1pe9qfx",
-      "title": {
-        "zh": "Perplexica",
-        "en": "Perplexica"
-      },
-      "description": {
-        "zh": "Perplexica is an AI-powered answering engine.",
-        "en": "Perplexica is an AI-powered answering engine."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "ai-agents",
-        "ai-search-engine",
-        "answering-engine",
-        "artificial-intelligence",
-        "llm",
-        "machine-learning",
-        "open-source-ai-search-engine",
-        "perplexica",
-        "rag",
-        "search-engine",
-        "searxng",
-        "searxng-copilot",
-        "self-hosted-ai"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/ItzCrazyKns/Perplexica",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/ItzCrazyKns/Perplexica",
-      "metrics": {
-        "stars": 29178,
-        "forks": 3084,
-        "trendScore": 35346
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-y1j8zakqw",
-      "title": {
-        "zh": "langgraph",
-        "en": "langgraph"
-      },
-      "description": {
-        "zh": "Build resilient language agents as graphs.",
-        "en": "Build resilient language agents as graphs."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai",
-        "langchain",
-        "langgraph",
-        "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/langchain-ai/langgraph",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/langchain-ai/langgraph",
-      "metrics": {
-        "stars": 25388,
-        "forks": 4428,
-        "trendScore": 34244
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:31.652Z"
-    },
-    {
-      "id": "auto-1772454871652-y1j8zakqw",
-      "title": {
-        "zh": "langgraph",
-        "en": "langgraph"
-      },
-      "description": {
-        "zh": "Build resilient language 智能体s as graphs.",
-        "en": "Build resilient language agents as graphs."
-      },
-      "primaryCategory": "智能母体",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai",
-        "langchain",
-        "langgraph",
-        "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/langchain-ai/langgraph",
-      "source": "GitHub Search",
-      "sourceUrl": "https://github.com/langchain-ai/langgraph",
-      "metrics": {
-        "stars": 25388,
-        "forks": 4428,
-        "trendScore": 34244
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
         "technicalHighlight": "开源项目，支持二次开发",
         "applicableScenarios": []
       },
@@ -10175,6 +10438,52 @@
       },
       "description": {
         "zh": "Daytona 是一个用于运行人工智能生成代码的安全且可扩展的基础设施",
+        "en": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "ai-runtime",
+        "ai-sandboxes",
+        "code-execution",
+        "code-interpreter",
+        "developer-tools",
+        "代码生成"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/daytonaio/daytona",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/daytonaio/daytona",
+      "metrics": {
+        "stars": 61584,
+        "forks": 5076,
+        "trendScore": 71736
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
+      "id": "auto-1772454871652-0wt25seih",
+      "title": {
+        "zh": "daytona",
+        "en": "daytona"
+      },
+      "description": {
+        "zh": "Daytona is a Secure and Elastic Infrastructure for Running 人工智能-Generated 代码",
         "en": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
       },
       "primaryCategory": "AI 硬件",
@@ -10642,48 +10951,6 @@
       "scrapedAt": "2026-03-02T12:34:35.534Z"
     },
     {
-      "id": "auto-1772454875534-qxhy1pzu6",
-      "title": {
-        "zh": "YOLOv10 LiteRT Android",
-        "en": "YOLOv10-LiteRT-Android"
-      },
-      "description": {
-        "zh": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference.",
-        "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference."
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "android",
-        "computer-vision",
-        "litert",
-        "object-detection",
-        "tflite"
-      ],
-      "applicableCategories": [],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
-      "metrics": {
-        "stars": 36,
-        "forks": 9,
-        "trendScore": 54
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于智能母体场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": []
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:35.534Z"
-    },
-    {
       "id": "auto-1772452082357-5is5prbn9",
       "title": {
         "zh": "Advanced AI Hardware Software Co Design",
@@ -10826,49 +11093,43 @@
       "scrapedAt": "2026-03-02T12:34:35.534Z"
     },
     {
-      "id": "auto-1772454870082-haruj0e76",
+      "id": "auto-1772454869366-8d8g3ed0e",
       "title": {
-        "zh": "nano apps",
-        "en": "nano-apps"
+        "zh": "lm",
+        "en": "lm"
       },
       "description": {
-        "zh": "Tiny applications that can be embedded in Nano Bots—small, AI-powered robots that support providers like OpenAI's ChatGPT—leveraging the capabilities of the new Tools (Functions) API in LLMs (Large Language Models).",
-        "en": "Tiny applications that can be embedded in Nano Bots—small, AI-powered robots that support providers like OpenAI's ChatGPT—leveraging the capabilities of the new Tools (Functions) API in LLMs (Large Language Models)."
+        "zh": "Offload Tasks from Claude to your 本地 大语言模型 With Houtini-LM - uses Open接口 for LM Studio and Ollama Compatibility. Save tokens by offloading some grunt work for your 接口 - our 工具 de脚本ion helps claude decide what work to assign and why.",
+        "en": "Offload Tasks from Claude to your Local LLM With Houtini-LM - uses OpenAPI for LM Studio and Ollama Compatibility. Save tokens by offloading some grunt work for your API - our tool description helps claude decide what work to assign and why."
       },
       "primaryCategory": "AI 硬件",
       "secondaryCategory": "opensource_soft_soft",
       "capabilityTags": [
-        "ai",
-        "artificial-intelligence",
-        "chatgpt",
-        "chatgpt-functions",
-        "chatgpt-tools",
-        "gpt",
-        "gpt-3",
-        "gpt-35-turbo",
-        "gpt-4-1106",
-        "gpt-4-1106-preview",
-        "gpt-4-32k",
-        "gpt-4-turbo",
-        "llm",
-        "nano-apps",
-        "nano-bots",
-        "openai",
-        "openai-api",
-        "openai-functions",
-        "openai-tools",
+        "ai-agents",
+        "claude-mcp",
+        "code-generation",
+        "developer-tool",
+        "developer-tools",
+        "lm-studio",
+        "lm-studio-mcp",
+        "local-llm",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "vibe-coding",
+        "vibe-coding-assistant",
         "API集成",
         "大语言模型"
       ],
       "applicableCategories": [],
       "isUniversal": true,
-      "downloadUrl": "https://github.com/gbaptista/nano-apps",
+      "downloadUrl": "https://github.com/houtini-ai/lm",
       "source": "GitHub Search",
-      "sourceUrl": "https://github.com/gbaptista/nano-apps",
+      "sourceUrl": "https://github.com/houtini-ai/lm",
       "metrics": {
-        "stars": 7,
-        "forks": 0,
-        "trendScore": 7
+        "stars": 8,
+        "forks": 5,
+        "trendScore": 18
       },
       "llmAnalysis": {
         "innovationPoints": [
@@ -10881,56 +11142,7 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:30.082Z"
-    },
-    {
-      "id": "auto-1772454873499-54b3z2zl6",
-      "title": {
-        "zh": "silo",
-        "en": "silo"
-      },
-      "description": {
-        "zh": "a private 人工智能 助手 for iOS. 对话 with 大语言模型s with no tracking or censorship. 本地 and completely on-设备, no internet required.",
-        "en": "a private ai assistant for iOS. Chat with LLMs with no tracking or censorship. Local and completely on-device, no internet required."
-      },
-      "primaryCategory": "AI 硬件",
-      "secondaryCategory": "opensource_soft_soft",
-      "capabilityTags": [
-        "ai",
-        "gguf",
-        "llamacpp",
-        "llm",
-        "models",
-        "swift",
-        "swiftui",
-        "大语言模型"
-      ],
-      "applicableCategories": [
-        "创意设计"
-      ],
-      "isUniversal": false,
-      "downloadUrl": "https://github.com/stevederico/silo",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/stevederico/silo",
-      "metrics": {
-        "stars": 4,
-        "forks": 1,
-        "trendScore": 6
-      },
-      "llmAnalysis": {
-        "innovationPoints": [
-          "基于AI大模型",
-          "自动化能力强",
-          "开源可定制"
-        ],
-        "recommendationReason": "适用于创意设计场景的AI工具",
-        "technicalHighlight": "开源项目，支持二次开发",
-        "applicableScenarios": [
-          "创意设计"
-        ]
-      },
-      "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:33.499Z"
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
     },
     {
       "id": "auto-1772454873499-d9nu6caf3",
@@ -11089,6 +11301,98 @@
       "scrapedAt": "2026-03-02T12:34:35.534Z"
     },
     {
+      "id": "auto-1772454875534-7wlq4uk61",
+      "title": {
+        "zh": "edgeai for beginners",
+        "en": "edgeai-for-beginners"
+      },
+      "description": {
+        "zh": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents.",
+        "en": "This course is designed to guide beginners through the exciting world of Edge AI, covering fundamental concepts, popular models, inference techniques, device-specific applications, model optimization, and the development of intelligent Edge AI agents."
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "prompt",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/microsoft/edgeai-for-beginners",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/microsoft/edgeai-for-beginners",
+      "metrics": {
+        "stars": 1338,
+        "forks": 279,
+        "trendScore": 1896
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于创意设计场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:35.534Z"
+    },
+    {
+      "id": "auto-1772454871652-5276idbmq",
+      "title": {
+        "zh": "langch人工智能n",
+        "en": "langchain"
+      },
+      "description": {
+        "zh": "🦜🔗 The 平台 for reliable 智能体s.",
+        "en": "🦜🔗 The platform for reliable agents."
+      },
+      "primaryCategory": "创意设计",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/langchain-ai/langchain",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/langchain-ai/langchain",
+      "metrics": {
+        "stars": 127938,
+        "forks": 21015,
+        "trendScore": 169968
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
       "id": "auto-1772452082357-qbnwv7woo",
       "title": {
         "zh": "neurons",
@@ -11203,6 +11507,48 @@
       "scrapedAt": "2026-03-02T12:34:35.534Z"
     },
     {
+      "id": "auto-1772454875534-qxhy1pzu6",
+      "title": {
+        "zh": "YOLOv10 LiteRT Android",
+        "en": "YOLOv10-LiteRT-Android"
+      },
+      "description": {
+        "zh": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference.",
+        "en": "This repository is an implementation of converting the YOLOv10 object detection model to LiteRT (.tflite) format and deploy it on Android using Google AI Edge for on-device inference."
+      },
+      "primaryCategory": "创意设计",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "android",
+        "computer-vision",
+        "litert",
+        "object-detection",
+        "tflite"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NSTiwari/YOLOv10-LiteRT-Android",
+      "metrics": {
+        "stars": 36,
+        "forks": 9,
+        "trendScore": 54
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:35.534Z"
+    },
+    {
       "id": "auto-1772452078864-urr7u8ge9",
       "title": {
         "zh": "Multi Modal Chat",
@@ -11252,6 +11598,57 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.864Z"
+    },
+    {
+      "id": "auto-1772454872416-i9joub02x",
+      "title": {
+        "zh": "Multi Modal Chat",
+        "en": "Multi-Modal-Chat"
+      },
+      "description": {
+        "zh": "Multi-Modal Next.js Chat App with Vercel AI SDK & LangGraph.js",
+        "en": "Multi-Modal Next.js Chat App with Vercel AI SDK & LangGraph.js"
+      },
+      "primaryCategory": "创意设计",
+      "secondaryCategory": "opensource_soft_soft",
+      "capabilityTags": [
+        "ai",
+        "chart-js",
+        "chatbot",
+        "dall-e",
+        "langchain",
+        "langchain-tool",
+        "langchain-tools",
+        "langgraph",
+        "llm",
+        "nextjs",
+        "openai",
+        "react",
+        "react-streams",
+        "vercel-ai-sdk"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/Ashot72/Multi-Modal-Chat",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/Ashot72/Multi-Modal-Chat",
+      "metrics": {
+        "stars": 10,
+        "forks": 2,
+        "trendScore": 14
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:32.416Z"
     },
     {
       "id": "auto-1772454872416-i9joub02x",
@@ -11357,6 +11754,122 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.864Z"
+    },
+    {
+      "id": "auto-1772454869366-s0p84hl9r",
+      "title": {
+        "zh": "claude code mcp",
+        "en": "claude-code-mcp"
+      },
+      "description": {
+        "zh": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more.",
+        "en": "Model Context Protocol (MCP) servers with Claude Code. These tools dramatically enhance Claude Code's capabilities, allowing it to interact with your filesystem, web browsers, and more."
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "agents-team",
+        "ai",
+        "ai-agents",
+        "ai-agents-cli",
+        "ai-agents-framework",
+        "ai-tools",
+        "ai-tools-comprehensive-list",
+        "anthropic-claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-mcp",
+        "claude-mcp",
+        "claudecode-mcp",
+        "cli-tools",
+        "developer-tools",
+        "mcp",
+        "mcp-integration",
+        "mcp-integrations",
+        "mcp-tools",
+        "modelcontextprotocol",
+        "浏览器自动化",
+        "文件处理",
+        "代码生成",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/zebbern/claude-code-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-mcp",
+      "metrics": {
+        "stars": 28,
+        "forks": 4,
+        "trendScore": 36
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
+    },
+    {
+      "id": "auto-1772454869366-s2mefaqhy",
+      "title": {
+        "zh": "json mcp filter",
+        "en": "json-mcp-filter"
+      },
+      "description": {
+        "zh": "JSON MCP server to filter only relevant data for your LLM",
+        "en": "JSON MCP server to filter only relevant data for your LLM"
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "claude-mcp",
+        "data",
+        "data-extraction",
+        "data-filtering",
+        "json",
+        "json-analysis",
+        "json-filter",
+        "json-mcp-server",
+        "json-parser",
+        "json-schema-inference",
+        "json-to-typescript",
+        "json-utilities",
+        "large-files",
+        "mcp",
+        "mcp-server",
+        "query",
+        "type-generation",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/kehvinbehvin/json-mcp-filter",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/kehvinbehvin/json-mcp-filter",
+      "metrics": {
+        "stars": 21,
+        "forks": 7,
+        "trendScore": 35
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
     },
     {
       "id": "auto-1772452079936-xt9d0imhq",
@@ -11469,37 +11982,49 @@
       "scrapedAt": "2026-03-02T12:34:31.652Z"
     },
     {
-      "id": "auto-1772454872416-mz4kc7cnj",
+      "id": "auto-1772454870082-haruj0e76",
       "title": {
-        "zh": "ai video analyzer",
-        "en": "ai-video-analyzer"
+        "zh": "nano apps",
+        "en": "nano-apps"
       },
       "description": {
-        "zh": "AI Video Analyzer & Chat Agent is a robust AI application built with Streamlit, Agno, & Langchain's DuckDuckGo Tool. Integrating Gemini 1.5 Flash, it enables video analysis, insight extraction, and AI-powered chat with features like content analysis, real-time web searches, and multi-modal analysis for research, education, and interactive learning.",
-        "en": "AI Video Analyzer & Chat Agent is a robust AI application built with Streamlit, Agno, & Langchain's DuckDuckGo Tool. Integrating Gemini 1.5 Flash, it enables video analysis, insight extraction, and AI-powered chat with features like content analysis, real-time web searches, and multi-modal analysis for research, education, and interactive learning."
+        "zh": "Tiny applications that can be embedded in Nano Bots—small, AI-powered robots that support providers like OpenAI's ChatGPT—leveraging the capabilities of the new Tools (Functions) API in LLMs (Large Language Models).",
+        "en": "Tiny applications that can be embedded in Nano Bots—small, AI-powered robots that support providers like OpenAI's ChatGPT—leveraging the capabilities of the new Tools (Functions) API in LLMs (Large Language Models)."
       },
-      "primaryCategory": "视频电商",
+      "primaryCategory": "AI 硬件",
       "secondaryCategory": "agent",
       "capabilityTags": [
-        "agentic-ai",
+        "ai",
         "artificial-intelligence",
-        "gemini-ai",
-        "langchain",
-        "langchain-tools",
-        "phidata",
-        "python3",
-        "视频处理",
-        "搜索"
+        "chatgpt",
+        "chatgpt-functions",
+        "chatgpt-tools",
+        "gpt",
+        "gpt-3",
+        "gpt-35-turbo",
+        "gpt-4-1106",
+        "gpt-4-1106-preview",
+        "gpt-4-32k",
+        "gpt-4-turbo",
+        "llm",
+        "nano-apps",
+        "nano-bots",
+        "openai",
+        "openai-api",
+        "openai-functions",
+        "openai-tools",
+        "API集成",
+        "大语言模型"
       ],
       "applicableCategories": [],
       "isUniversal": true,
-      "downloadUrl": "https://github.com/gupta-v/ai-video-analyzer",
+      "downloadUrl": "https://github.com/gbaptista/nano-apps",
       "source": "GitHub Search",
-      "sourceUrl": "https://github.com/gupta-v/ai-video-analyzer",
+      "sourceUrl": "https://github.com/gbaptista/nano-apps",
       "metrics": {
-        "stars": 13,
-        "forks": 5,
-        "trendScore": 23
+        "stars": 7,
+        "forks": 0,
+        "trendScore": 7
       },
       "llmAnalysis": {
         "innovationPoints": [
@@ -11512,9 +12037,58 @@
         "applicableScenarios": []
       },
       "status": "approved",
-      "scrapedAt": "2026-03-02T12:34:32.416Z"
+      "scrapedAt": "2026-03-02T12:34:30.082Z"
+    },
+    {
+      "id": "auto-1772454873499-54b3z2zl6",
+      "title": {
+        "zh": "silo",
+        "en": "silo"
+      },
+      "description": {
+        "zh": "a private 人工智能 助手 for iOS. 对话 with 大语言模型s with no tracking or censorship. 本地 and completely on-设备, no internet required.",
+        "en": "a private ai assistant for iOS. Chat with LLMs with no tracking or censorship. Local and completely on-device, no internet required."
+      },
+      "primaryCategory": "AI 硬件",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai",
+        "gguf",
+        "llamacpp",
+        "llm",
+        "models",
+        "swift",
+        "swiftui",
+        "大语言模型"
+      ],
+      "applicableCategories": [
+        "创意设计"
+      ],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/stevederico/silo",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/stevederico/silo",
+      "metrics": {
+        "stars": 4,
+        "forks": 1,
+        "trendScore": 6
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于创意设计场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "创意设计"
+        ]
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T12:34:33.499Z"
     }
   ],
-  "total": 232,
-  "lastUpdate": "2026-03-02T12:58:17.486Z"
+  "total": 243,
+  "lastUpdate": "2026-03-02T13:06:10.869Z"
 }
