@@ -8,7 +8,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+    "scrape": "npx tsx scripts/scrape-all.ts",
+    "classify": "npx tsx scripts/classify.ts",
+    "process": "npx tsx scripts/process-approved.ts",
+    "publish": "npx tsx scripts/publish.ts",
+    "daily": "npm run scrape && npm run classify && npm run process && npm run publish"
   },
   "dependencies": {
     "@google/genai": "^1.29.0",

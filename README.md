@@ -1,20 +1,73 @@
+# Auto-Building 🤖
+
+> AI 工具资源自动采集、审核、发布系统
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+## 快速开始
 
-This contains everything you need to run your app locally.
+```bash
+# 1. 安装依赖
+npm install
 
-View your app in AI Studio: https://ai.studio/apps/1bab7db5-c17f-49c3-afb8-f0e91606d717
+# 2. 配置 .env 文件（见下方）
+cp .env.example .env
 
-## Run Locally
+# 3. 启动开发服务器
+npm run dev
+```
 
-**Prerequisites:**  Node.js
+## 完整使用说明
 
+**详细文档请查看 [USAGE.md](./USAGE.md)**
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 核心命令
+
+| 命令 | 功能 |
+|------|------|
+| `npm run dev` | 启动网站（localhost:3000） |
+| `npm run scrape` | 采集 AI 工具资源 |
+| `npm run classify` | 分类和翻译 |
+| `npm run process` | 处理审核通过的资源 |
+| `npm run publish` | 发布到 GitHub |
+| `npm run daily` | 执行完整每日流程 |
+
+### 审核界面
+
+运行 `npm run dev` 后访问：
+- http://localhost:3000 - 首页
+- http://localhost:3000/review - 审核页面
+- http://localhost:3000/about - 关于我们
+- http://localhost:3000/terms - 服务条款
+- http://localhost:3000/privacy - 隐私政策
+
+## 配置
+
+创建 `.env` 文件：
+
+```bash
+# GitHub Token（必须）
+GITHUB_TOKEN=你的GitHub_TOKEN
+
+# 可选：通知
+# TELEGRAM_BOT_TOKEN=
+# TELEGRAM_CHAT_ID=
+# WEBHOOK_URL=
+```
+
+## 技术栈
+
+- React + TypeScript + Vite + TailwindCSS
+- Node.js + Playwright + Octokit
+- AI: NVIDIA API / Google AI
+- 部署: Vercel
+
+## GitHub 仓库
+
+https://github.com/hasd52636-a11y/AUTOBUILDING
+
+---
+
+详细使用说明请阅读 [USAGE.md](./USAGE.md)

@@ -362,7 +362,7 @@ async function scrapeAll() {
   log(`✅ 采集完成! 共 ${finalResources.length} 个资源`);
   
   // 保存原始数据
-  if (!existsSync('./data')) mkdirSync('./data');
+  if (!existsSync('./src/data')) mkdirSync('./src/data');
   
   const output = {
     resources: finalResources,
@@ -370,8 +370,8 @@ async function scrapeAll() {
     scrapedAt: new Date().toISOString()
   };
   
-  writeFileSync('./data/raw-resources.json', JSON.stringify(output, null, 2));
-  log('📁 已保存到 data/raw-resources.json');
+  writeFileSync('./src/data/raw-resources.json', JSON.stringify(output, null, 2));
+  log('📁 已保存到 src/data/raw-resources.json');
   
   return output;
 }

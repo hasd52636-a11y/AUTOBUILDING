@@ -435,20 +435,20 @@ async function main() {
   log('🏷️ 开始分类处理...');
   log('');
   
-  if (!existsSync('./data/raw-resources.json')) {
+  if (!existsSync('./src/data/raw-resources.json')) {
     log('❌ 错误: 请先运行采集脚本 (npx tsx scripts/scrape-all.ts)');
     process.exit(1);
   }
   
-  const rawData = JSON.parse(readFileSync('./data/raw-resources.json', 'utf-8'));
+  const rawData = JSON.parse(readFileSync('./src/data/raw-resources.json', 'utf-8'));
   const rawResources: RawResource[] = rawData.resources;
   
   log(`📊 待分类: ${rawResources.length} 个资源`);
   log('');
   
   let existingResources: CategorizedResource[] = [];
-  if (existsSync('./data/all-resources.json')) {
-    const existingData = JSON.parse(readFileSync('./data/all-resources.json', 'utf-8'));
+  if (existsSync('./src/data/all-resources.json')) {
+    const existingData = JSON.parse(readFileSync('./src/data/all-resources.json', 'utf-8'));
     existingResources = existingData.resources || [];
     log(`📚 已有资源: ${existingResources.length} 个`);
     log('');
@@ -494,14 +494,14 @@ async function main() {
     total: pending.length,
     generatedAt: new Date().toISOString()
   };
-  writeFileSync('./data/pending-review.json', JSON.stringify(pendingOutput, null, 2));
+  writeFileSync('./src/data/pending-review.json', JSON.stringify(pendingOutput, null, 2));
   
   const allOutput = {
     resources: updated,
     total: updated.length,
     lastUpdate: new Date().toISOString()
   };
-  writeFileSync('./data/all-resources.json', JSON.stringify(allOutput, null, 2));
+  writeFileSync('./src/data/all-resources.json', JSON.stringify(allOutput, null, 2));
   
   log('');
   log('✅ 分类完成!');
@@ -509,8 +509,8 @@ async function main() {
   log(`📦 已入库: ${updated.length} 个`);
   log('');
   log('📁 已保存到:');
-  log('   - data/pending-review.json (待审核)');
-  log('   - data/all-resources.json (全部资源)');
+  log('   - src/data/pending-review.json (待审核)');
+  log('   - src/data/all-resources.json (全部资源)');
 }
 
 main().catch(console.error);

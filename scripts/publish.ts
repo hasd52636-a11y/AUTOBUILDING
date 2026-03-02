@@ -40,13 +40,13 @@ function main() {
   log('');
 
   // 1. 读取已通过审核的资源
-  if (!existsSync('./data/all-resources.json')) {
+  if (!existsSync('./src/data/all-resources.json')) {
     log('❌ 错误: 没有找到已审核的资源数据');
     log('请先运行采集和审核流程');
     process.exit(1);
   }
 
-  const allData = JSON.parse(readFileSync('./data/all-resources.json', 'utf-8'));
+  const allData = JSON.parse(readFileSync('./src/data/all-resources.json', 'utf-8'));
   const approvedResources: Resource[] = (allData.resources || [])
     .filter((r: Resource) => r.status === 'approved');
 
