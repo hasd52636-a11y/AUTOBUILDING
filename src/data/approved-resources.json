@@ -3968,6 +3968,697 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T14:18:22.247Z"
+    },
+    {
+      "id": "official-openclaw-core",
+      "title": {
+        "zh": "OpenClaw Core",
+        "en": "OpenClaw Core"
+      },
+      "description": {
+        "zh": "OpenClaw核心框架，提供智能体运行环境和网关服务",
+        "en": "OpenClaw核心框架，提供智能体运行环境和网关服务"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "多通道消息路由",
+        "技能管理系统",
+        "自动化任务调度",
+        "浏览器控制",
+        "设备节点管理"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw/openclaw/releases/latest",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://github.com/openclaw/openclaw",
+      "metrics": {
+        "stars": 2800,
+        "forks": 0,
+        "trendScore": 2800
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "多通道消息路由",
+          "技能管理系统",
+          "自动化任务调度"
+        ],
+        "recommendationReason": "OpenClaw核心框架，提供智能体运行环境和网关服务",
+        "technicalHighlight": "Apache-2.0",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.844Z",
+      "version": "2.8.0"
+    },
+    {
+      "id": "official-openclaw-gateway",
+      "title": {
+        "zh": "OpenClaw Gateway",
+        "en": "OpenClaw Gateway"
+      },
+      "description": {
+        "zh": "OpenClaw网关服务，处理消息路由和通道连接",
+        "en": "OpenClaw网关服务，处理消息路由和通道连接"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "多协议支持（WhatsApp/Telegram/Discord/iMessage）",
+        "消息队列管理",
+        "连接状态监控",
+        "自动重连机制",
+        "WebSocket API"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw/gateway/releases/latest",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://github.com/openclaw/gateway",
+      "metrics": {
+        "stars": 450,
+        "forks": 0,
+        "trendScore": 450
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "多协议支持（WhatsApp/Telegram/Discord/iMessage）",
+          "消息队列管理",
+          "连接状态监控"
+        ],
+        "recommendationReason": "OpenClaw网关服务，处理消息路由和通道连接",
+        "technicalHighlight": "Apache-2.0",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.845Z",
+      "version": "2.8.0"
+    },
+    {
+      "id": "official-clawd-(openclaw-node)",
+      "title": {
+        "zh": "Clawd (OpenClaw Node)",
+        "en": "Clawd (OpenClaw Node)"
+      },
+      "description": {
+        "zh": "OpenClaw节点客户端，用于设备连接和远程控制",
+        "en": "OpenClaw节点客户端，用于设备连接和远程控制"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "设备节点注册",
+        "远程命令执行",
+        "屏幕共享",
+        "摄像头访问",
+        "文件传输",
+        "系统监控"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw/clawd/releases/latest",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://github.com/openclaw/clawd",
+      "metrics": {
+        "stars": 320,
+        "forks": 0,
+        "trendScore": 320
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "设备节点注册",
+          "远程命令执行",
+          "屏幕共享"
+        ],
+        "recommendationReason": "OpenClaw节点客户端，用于设备连接和远程控制",
+        "technicalHighlight": "Apache-2.0",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.845Z",
+      "version": "1.7.0"
+    },
+    {
+      "id": "official-claude-by-anthropic",
+      "title": {
+        "zh": "Claude by Anthropic",
+        "en": "Claude by Anthropic"
+      },
+      "description": {
+        "zh": "Anthropic开发的AI助手，专为问题解决者设计",
+        "en": "Anthropic开发的AI助手，专为问题解决者设计"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://claude.com",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "Anthropic开发的AI助手，专为问题解决者设计",
+        "technicalHighlight": "商业产品",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.846Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-github-copilot",
+      "title": {
+        "zh": "GitHub Copilot",
+        "en": "GitHub Copilot"
+      },
+      "description": {
+        "zh": "GitHub开发的AI编程助手，支持多种工作流和集成",
+        "en": "GitHub开发的AI编程助手，支持多种工作流和集成"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/features/copilot",
+      "source": "GitHub (Microsoft)",
+      "sourceUrl": "https://github.com/features/copilot",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "GitHub开发的AI编程助手，支持多种工作流和集成",
+        "technicalHighlight": "商业产品",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.846Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-notion-ai",
+      "title": {
+        "zh": "Notion AI",
+        "en": "Notion AI"
+      },
+      "description": {
+        "zh": "Notion平台的AI团队助手，提供智能写作、任务管理和知识处理能力",
+        "en": "Notion平台的AI团队助手，提供智能写作、任务管理和知识处理能力"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://www.notion.so",
+      "source": "Notion Labs",
+      "sourceUrl": "https://www.notion.so/product/ai",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "Notion平台的AI团队助手，提供智能写作、任务管理和知识处理能力",
+        "technicalHighlight": "商业产品",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.846Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-manus-ai-mcp-servers",
+      "title": {
+        "zh": "Manus AI MCP Servers",
+        "en": "Manus AI MCP Servers"
+      },
+      "description": {
+        "zh": "Manus AI开发的Model Context Protocol服务器，为AI系统提供与各种平台集成的能力",
+        "en": "Manus AI开发的Model Context Protocol服务器，为AI系统提供与各种平台集成的能力"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/manus-ai",
+      "source": "Manus AI",
+      "sourceUrl": "https://github.com/manus-ai",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "Manus AI开发的Model Context Protocol服务器，为AI系统提供与各种平台集成的能力",
+        "technicalHighlight": "开源",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.847Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-langchain",
+      "title": {
+        "zh": "LangChain",
+        "en": "LangChain"
+      },
+      "description": {
+        "zh": "可靠智能体开发平台，用于构建LLM驱动的应用程序",
+        "en": "可靠智能体开发平台，用于构建LLM驱动的应用程序"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://pypi.org/project/langchain/",
+      "source": "LangChain AI",
+      "sourceUrl": "https://github.com/langchain-ai/langchain",
+      "metrics": {
+        "stars": 78000,
+        "forks": 0,
+        "trendScore": 78000
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "可靠智能体开发平台，用于构建LLM驱动的应用程序",
+        "technicalHighlight": "MIT",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.847Z",
+      "version": "0.2.0"
+    },
+    {
+      "id": "official-azure-autogen",
+      "title": {
+        "zh": "Azure AutoGen",
+        "en": "Azure AutoGen"
+      },
+      "description": {
+        "zh": "微软开发的智能体编程框架，用于创建多智能体AI应用",
+        "en": "微软开发的智能体编程框架，用于创建多智能体AI应用"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/microsoft/autogen/releases/latest",
+      "source": "Microsoft",
+      "sourceUrl": "https://github.com/microsoft/autogen",
+      "metrics": {
+        "stars": 21500,
+        "forks": 0,
+        "trendScore": 21500
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "微软开发的智能体编程框架，用于创建多智能体AI应用",
+        "technicalHighlight": "MIT",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.847Z",
+      "version": "1.2.0"
+    },
+    {
+      "id": "official-deepseek-ai",
+      "title": {
+        "zh": "DeepSeek AI",
+        "en": "DeepSeek AI"
+      },
+      "description": {
+        "zh": "深度求索AI开源项目集合，专注于高性能AI计算和集成",
+        "en": "深度求索AI开源项目集合，专注于高性能AI计算和集成"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/deepseek-ai",
+      "source": "DeepSeek AI",
+      "sourceUrl": "https://github.com/deepseek-ai",
+      "metrics": {
+        "stars": 4500,
+        "forks": 0,
+        "trendScore": 4500
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "深度求索AI开源项目集合，专注于高性能AI计算和集成",
+        "technicalHighlight": "Various",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.848Z",
+      "version": "latest"
+    },
+    {
+      "id": "official-minimax",
+      "title": {
+        "zh": "Minimax",
+        "en": "Minimax"
+      },
+      "description": {
+        "zh": "深度求索科技开发的AI大模型平台，提供先进的自然语言处理能力",
+        "en": "深度求索科技开发的AI大模型平台，提供先进的自然语言处理能力"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://api.minimax.chat",
+      "source": "深度求索科技",
+      "sourceUrl": "https://www.minimaxi.com",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "深度求索科技开发的AI大模型平台，提供先进的自然语言处理能力",
+        "technicalHighlight": "商业产品",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.848Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-tencent-ai开源项目",
+      "title": {
+        "zh": "Tencent AI开源项目",
+        "en": "Tencent AI开源项目"
+      },
+      "description": {
+        "zh": "腾讯开源AI项目集合，涵盖多个AI和机器学习框架",
+        "en": "腾讯开源AI项目集合，涵盖多个AI和机器学习框架"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/Tencent",
+      "source": "Tencent",
+      "sourceUrl": "https://github.com/Tencent",
+      "metrics": {
+        "stars": 80000,
+        "forks": 0,
+        "trendScore": 80000
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "腾讯开源AI项目集合，涵盖多个AI和机器学习框架",
+        "technicalHighlight": "Various",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.849Z",
+      "version": "latest"
+    },
+    {
+      "id": "official-skills.sh",
+      "title": {
+        "zh": "Skills.sh",
+        "en": "Skills.sh"
+      },
+      "description": {
+        "zh": "开放智能体技能生态系统，提供可重用的AI智能体能力",
+        "en": "开放智能体技能生态系统，提供可重用的AI智能体能力"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://skills.sh",
+      "source": "Skills.sh团队",
+      "sourceUrl": "https://skills.sh",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "开放智能体技能生态系统，提供可重用的AI智能体能力",
+        "technicalHighlight": "开源",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.849Z",
+      "version": "latest"
+    },
+    {
+      "id": "official-cowork.com",
+      "title": {
+        "zh": "CoWork.com",
+        "en": "CoWork.com"
+      },
+      "description": {
+        "zh": "独立的AI插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台",
+        "en": "独立的AI插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://www.cowork.com",
+      "source": "CoWork.com团队",
+      "sourceUrl": "https://www.cowork.com",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "独立的AI插件和技能市场，为自主智能体和工作流提供发现、安装和贡献插件的平台",
+        "technicalHighlight": "开源市场",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.849Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-自主智能体框架",
+      "title": {
+        "zh": "自主智能体框架",
+        "en": "自主智能体框架"
+      },
+      "description": {
+        "zh": "开源自主智能体框架集合，提供构建自定义AI智能体的工具和资源",
+        "en": "开源自主智能体框架集合，提供构建自定义AI智能体的工具和资源"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/topics/autonomous-agents",
+      "source": "开源社区",
+      "sourceUrl": "https://github.com/topics/autonomous-agents",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "开源自主智能体框架集合，提供构建自定义AI智能体的工具和资源",
+        "technicalHighlight": "Various",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.850Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-任务自动化框架",
+      "title": {
+        "zh": "任务自动化框架",
+        "en": "任务自动化框架"
+      },
+      "description": {
+        "zh": "开源任务自动化框架集合，提供多智能体协作和实时任务自动化能力",
+        "en": "开源任务自动化框架集合，提供多智能体协作和实时任务自动化能力"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/topics/task-automation",
+      "source": "开源社区",
+      "sourceUrl": "https://github.com/topics/task-automation",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "开源任务自动化框架集合，提供多智能体协作和实时任务自动化能力",
+        "technicalHighlight": "Various",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.850Z",
+      "version": "最新版本"
+    },
+    {
+      "id": "official-openclaw官方文档",
+      "title": {
+        "zh": "OpenClaw官方文档",
+        "en": "OpenClaw官方文档"
+      },
+      "description": {
+        "zh": "OpenClaw完整官方文档，包含安装指南、使用教程和API参考",
+        "en": "OpenClaw完整官方文档，包含安装指南、使用教程和API参考"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://docs.openclaw.ai/llms.txt",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://docs.openclaw.ai",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "OpenClaw完整官方文档，包含安装指南、使用教程和API参考",
+        "technicalHighlight": "CC-BY-4.0",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.850Z",
+      "version": "latest"
+    },
+    {
+      "id": "official-openclaw-101教程",
+      "title": {
+        "zh": "OpenClaw 101教程",
+        "en": "OpenClaw 101教程"
+      },
+      "description": {
+        "zh": "OpenClaw入门教程和学习资源，适合新手快速上手",
+        "en": "OpenClaw入门教程和学习资源，适合新手快速上手"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw/openclaw101/archive/main.zip",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://github.com/openclaw/openclaw101",
+      "metrics": {
+        "stars": 890,
+        "forks": 0,
+        "trendScore": 890
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "OpenClaw入门教程和学习资源，适合新手快速上手",
+        "technicalHighlight": "MIT",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.851Z",
+      "version": "1.2.0"
+    },
+    {
+      "id": "official-openclaw中文社区",
+      "title": {
+        "zh": "OpenClaw中文社区",
+        "en": "OpenClaw中文社区"
+      },
+      "description": {
+        "zh": "OpenClaw中文官方社区，提供中文文档、教程和本地化支持",
+        "en": "OpenClaw中文官方社区，提供中文文档、教程和本地化支持"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw-china",
+      "source": "OpenClaw中国团队",
+      "sourceUrl": "https://github.com/openclaw-china",
+      "metrics": {
+        "stars": 230,
+        "forks": 0,
+        "trendScore": 230
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "OpenClaw中文官方社区，提供中文文档、教程和本地化支持",
+        "technicalHighlight": "Various",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.851Z",
+      "version": "latest"
+    },
+    {
+      "id": "official-openclaw技能系统",
+      "title": {
+        "zh": "OpenClaw技能系统",
+        "en": "OpenClaw技能系统"
+      },
+      "description": {
+        "zh": "OpenClaw官方技能框架和标准技能库",
+        "en": "OpenClaw官方技能框架和标准技能库"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/openclaw/skills",
+      "source": "OpenClaw Team",
+      "sourceUrl": "https://docs.openclaw.ai/skills",
+      "metrics": {
+        "stars": 670,
+        "forks": 0,
+        "trendScore": 670
+      },
+      "llmAnalysis": {
+        "innovationPoints": [],
+        "recommendationReason": "OpenClaw官方技能框架和标准技能库",
+        "technicalHighlight": "Apache-2.0",
+        "applicableScenarios": []
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:23:02.851Z",
+      "version": "2.8.0"
     }
   ]
 }
