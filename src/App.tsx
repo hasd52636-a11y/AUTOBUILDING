@@ -15,15 +15,10 @@ import PrivacyPage from './pages/PrivacyPage';
 import { MOCK_RESOURCES, ResourceType, PRIMARY_CATEGORIES } from './data/resources';
 import { useLanguage } from './i18n/LanguageContext';
 import { useEffect } from 'react';
+import approvedData from './data/approved-resources.json';
 
 // 尝试加载已审核的数据
-let APPROVED_RESOURCES: any[] = [];
-try {
-  const approvedData = require('./data/approved-resources.json');
-  APPROVED_RESOURCES = approvedData.resources || [];
-} catch (e) {
-  // 使用空数组
-}
+const APPROVED_RESOURCES = (approvedData as { resources?: any[] }).resources || [];
 
 function HomePage() {
   const [activePrimary, setActivePrimary] = useState<string>('all');
