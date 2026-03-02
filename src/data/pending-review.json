@@ -1,0 +1,1362 @@
+{
+  "pending": [
+    {
+      "id": "auto-1772452078068-wzbosl7ow",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79357,
+        "forks": 9382,
+        "trendScore": 98121
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772452078068-wzbosl7ow",
+      "title": {
+        "zh": "browser use",
+        "en": "browser-use"
+      },
+      "description": {
+        "zh": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "en": "🌐 Make websites accessible for AI agents. Automate tasks online with ease."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/browser-use/browser-use",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/browser-use/browser-use",
+      "metrics": {
+        "stars": 79357,
+        "forks": 9382,
+        "trendScore": 98121
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "auto-1772454871652-fz50qspng",
+      "title": {
+        "zh": "mem0",
+        "en": "mem0"
+      },
+      "description": {
+        "zh": "Universal 记忆 layer for 人工智能 智能体s",
+        "en": "Universal memory layer for AI Agents"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management",
+        "记忆/知识"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/mem0ai/mem0",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/mem0ai/mem0",
+      "metrics": {
+        "stars": 48425,
+        "forks": 5388,
+        "trendScore": 59201
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
+      "id": "auto-1772454871652-m8wiy7fk5",
+      "title": {
+        "zh": "智能体GPT",
+        "en": "AgentGPT"
+      },
+      "description": {
+        "zh": "🤖 Assemble, configure, and deploy autonomous 人工智能 智能体s in your browser.",
+        "en": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "agent",
+        "agentgpt",
+        "agents",
+        "agi",
+        "ai",
+        "ai-agents",
+        "autogpt",
+        "baby-agi",
+        "gpt",
+        "langchain",
+        "llm",
+        "next",
+        "openai",
+        "t3",
+        "t3-stack",
+        "浏览器自动化",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/reworkd/AgentGPT",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/reworkd/AgentGPT",
+      "metrics": {
+        "stars": 35757,
+        "forks": 9442,
+        "trendScore": 54641
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
+      "id": "auto-1772454871652-5g1pe9qfx",
+      "title": {
+        "zh": "Perplexica",
+        "en": "Perplexica"
+      },
+      "description": {
+        "zh": "Perplexica is an 人工智能-powered answering engine.",
+        "en": "Perplexica is an AI-powered answering engine."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "agent",
+      "capabilityTags": [
+        "ai-agents",
+        "ai-search-engine",
+        "answering-engine",
+        "artificial-intelligence",
+        "llm",
+        "machine-learning",
+        "open-source-ai-search-engine",
+        "perplexica",
+        "rag",
+        "search-engine",
+        "searxng",
+        "searxng-copilot",
+        "self-hosted-ai"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/ItzCrazyKns/Perplexica",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/ItzCrazyKns/Perplexica",
+      "metrics": {
+        "stars": 29178,
+        "forks": 3084,
+        "trendScore": 35346
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:31.652Z"
+    },
+    {
+      "id": "auto-1772452076006-ymh6e6b6b",
+      "title": {
+        "zh": "claude code guide",
+        "en": "claude-code-guide"
+      },
+      "description": {
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "ai",
+        "ai-agent",
+        "ai-agent-tools",
+        "claude",
+        "claude-ai",
+        "claude-api",
+        "claude-code",
+        "claude-code-communication",
+        "claude-code-guide",
+        "claude-code-typescript",
+        "claude-commands",
+        "claude-desktop",
+        "claude-mcp",
+        "claude-sonnet",
+        "claude-sonnet-4",
+        "code",
+        "mcp",
+        "mcp-agents",
+        "mcp-tools",
+        "vscode-extension",
+        "代码生成",
+        "工作流",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
+      "metrics": {
+        "stars": 3498,
+        "forks": 325,
+        "trendScore": 4148
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772452076006-ymh6e6b6b",
+      "title": {
+        "zh": "claude code guide",
+        "en": "claude-code-guide"
+      },
+      "description": {
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "ai",
+        "ai-agent",
+        "ai-agent-tools",
+        "claude",
+        "claude-ai",
+        "claude-api",
+        "claude-code",
+        "claude-code-communication",
+        "claude-code-guide",
+        "claude-code-typescript",
+        "claude-commands",
+        "claude-desktop",
+        "claude-mcp",
+        "claude-sonnet",
+        "claude-sonnet-4",
+        "code",
+        "mcp",
+        "mcp-agents",
+        "mcp-tools",
+        "vscode-extension",
+        "代码生成",
+        "工作流",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
+      "metrics": {
+        "stars": 3498,
+        "forks": 325,
+        "trendScore": 4148
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772452076006-ymh6e6b6b",
+      "title": {
+        "zh": "claude code guide",
+        "en": "claude-code-guide"
+      },
+      "description": {
+        "zh": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks ",
+        "en": "Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks "
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "ai",
+        "ai-agent",
+        "ai-agent-tools",
+        "claude",
+        "claude-ai",
+        "claude-api",
+        "claude-code",
+        "claude-code-communication",
+        "claude-code-guide",
+        "claude-code-typescript",
+        "claude-commands",
+        "claude-desktop",
+        "claude-mcp",
+        "claude-sonnet",
+        "claude-sonnet-4",
+        "code",
+        "mcp",
+        "mcp-agents",
+        "mcp-tools",
+        "vscode-extension",
+        "代码生成",
+        "工作流",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/zebbern/claude-code-guide",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/zebbern/claude-code-guide",
+      "metrics": {
+        "stars": 3498,
+        "forks": 325,
+        "trendScore": 4148
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772454873499-5ev5kl9tc",
+      "title": {
+        "zh": "gemini java 客户端",
+        "en": "gemini java client"
+      },
+      "description": {
+        "zh": "Autonomous 人工智能 智能体 for the JVM: shell, files, google 搜索, runs any 大语言模型 generated java 代码 on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy 工具s easy pojos. 物联网 设备s. Run it standalone for a pure-java 人工智能 助手.",
+        "en": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "agentic-workflows",
+        "ai",
+        "ai-assistant",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "gemini-cli",
+        "gemini-client",
+        "gemini-flash",
+        "gemini-pro",
+        "gemini-protocol",
+        "gemini-server",
+        "gemini3",
+        "genai",
+        "java",
+        "openclaw",
+        "文件处理",
+        "代码生成",
+        "大语言模型",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/anahata-os/gemini-java-client",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/anahata-os/gemini-java-client",
+      "metrics": {
+        "stars": 13,
+        "forks": 1,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:33.499Z"
+    },
+    {
+      "id": "auto-1772454870082-51881oomj",
+      "title": {
+        "zh": "open人工智能 工具s playground",
+        "en": "openai tools playground"
+      },
+      "description": {
+        "zh": "Core functionality for 工具 registration, conversation 管理, and 人工智能 服务 集成 to accelerate your 人工智能 development 工作流",
+        "en": "Core functionality for tool registration, conversation management, and AI service integration to accelerate your AI development workflow"
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "skill",
+      "capabilityTags": [
+        "openai",
+        "openai-api",
+        "openai-playground",
+        "openai-tools",
+        "工作流"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/idolgoff/openai-tools-playground",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/idolgoff/openai-tools-playground",
+      "metrics": {
+        "stars": 6,
+        "forks": 0,
+        "trendScore": 6
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:30.082Z"
+    },
+    {
+      "id": "auto-1772452076006-xcqpm7tvt",
+      "title": {
+        "zh": "stealth browser mcp",
+        "en": "stealth-browser-mcp"
+      },
+      "description": {
+        "zh": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.",
+        "en": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai-agent-tools",
+        "ai-tools",
+        "anthropic",
+        "anti-bot-bypass",
+        "automation-tools",
+        "browser-automation",
+        "chrome-devtools",
+        "claude-mcp",
+        "cloudflare-bypass",
+        "developer-tools",
+        "fastmcp",
+        "mcp-server",
+        "model-context-protocol",
+        "network-interception",
+        "nodriver",
+        "python",
+        "stealth-browser",
+        "undetectable-browser",
+        "web-automation",
+        "web-scraping",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [
+        "智能母体",
+        "创意设计"
+      ],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "metrics": {
+        "stars": 348,
+        "forks": 90,
+        "trendScore": 528
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "智能母体",
+          "创意设计"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772452076006-xcqpm7tvt",
+      "title": {
+        "zh": "stealth browser mcp",
+        "en": "stealth-browser-mcp"
+      },
+      "description": {
+        "zh": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.",
+        "en": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai-agent-tools",
+        "ai-tools",
+        "anthropic",
+        "anti-bot-bypass",
+        "automation-tools",
+        "browser-automation",
+        "chrome-devtools",
+        "claude-mcp",
+        "cloudflare-bypass",
+        "developer-tools",
+        "fastmcp",
+        "mcp-server",
+        "model-context-protocol",
+        "network-interception",
+        "nodriver",
+        "python",
+        "stealth-browser",
+        "undetectable-browser",
+        "web-automation",
+        "web-scraping",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [
+        "智能母体",
+        "创意设计"
+      ],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "metrics": {
+        "stars": 348,
+        "forks": 90,
+        "trendScore": 528
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "智能母体",
+          "创意设计"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772452076006-xcqpm7tvt",
+      "title": {
+        "zh": "stealth browser mcp",
+        "en": "stealth-browser-mcp"
+      },
+      "description": {
+        "zh": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.",
+        "en": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai-agent-tools",
+        "ai-tools",
+        "anthropic",
+        "anti-bot-bypass",
+        "automation-tools",
+        "browser-automation",
+        "chrome-devtools",
+        "claude-mcp",
+        "cloudflare-bypass",
+        "developer-tools",
+        "fastmcp",
+        "mcp-server",
+        "model-context-protocol",
+        "network-interception",
+        "nodriver",
+        "python",
+        "stealth-browser",
+        "undetectable-browser",
+        "web-automation",
+        "web-scraping",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [
+        "智能母体",
+        "创意设计"
+      ],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "metrics": {
+        "stars": 348,
+        "forks": 90,
+        "trendScore": 528
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "智能母体",
+          "创意设计"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:56.006Z"
+    },
+    {
+      "id": "auto-1772454869366-oofr9in35",
+      "title": {
+        "zh": "stealth browser mcp",
+        "en": "stealth-browser-mcp"
+      },
+      "description": {
+        "zh": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.",
+        "en": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai-agent-tools",
+        "ai-tools",
+        "anthropic",
+        "anti-bot-bypass",
+        "automation-tools",
+        "browser-automation",
+        "chrome-devtools",
+        "claude-mcp",
+        "cloudflare-bypass",
+        "developer-tools",
+        "fastmcp",
+        "mcp-server",
+        "model-context-protocol",
+        "network-interception",
+        "nodriver",
+        "python",
+        "stealth-browser",
+        "undetectable-browser",
+        "web-automation",
+        "web-scraping",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "metrics": {
+        "stars": 348,
+        "forks": 90,
+        "trendScore": 528
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
+    },
+    {
+      "id": "auto-1772454869366-oofr9in35",
+      "title": {
+        "zh": "stealth browser mcp",
+        "en": "stealth-browser-mcp"
+      },
+      "description": {
+        "zh": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat.",
+        "en": "The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "ai-agent-tools",
+        "ai-tools",
+        "anthropic",
+        "anti-bot-bypass",
+        "automation-tools",
+        "browser-automation",
+        "chrome-devtools",
+        "claude-mcp",
+        "cloudflare-bypass",
+        "developer-tools",
+        "fastmcp",
+        "mcp-server",
+        "model-context-protocol",
+        "network-interception",
+        "nodriver",
+        "python",
+        "stealth-browser",
+        "undetectable-browser",
+        "web-automation",
+        "web-scraping",
+        "浏览器自动化"
+      ],
+      "applicableCategories": [],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "source": "GitHub Search",
+      "sourceUrl": "https://github.com/vibheksoni/stealth-browser-mcp",
+      "metrics": {
+        "stars": 348,
+        "forks": 90,
+        "trendScore": 528
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:29.366Z"
+    },
+    {
+      "id": "auto-1772452079936-ix42j6y4s",
+      "title": {
+        "zh": "gemini java client",
+        "en": "gemini-java-client"
+      },
+      "description": {
+        "zh": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant.",
+        "en": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "agentic-workflows",
+        "ai",
+        "ai-assistant",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "gemini-cli",
+        "gemini-client",
+        "gemini-flash",
+        "gemini-pro",
+        "gemini-protocol",
+        "gemini-server",
+        "gemini3",
+        "genai",
+        "java",
+        "openclaw",
+        "文件处理",
+        "代码生成",
+        "大语言模型",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/anahata-os/gemini-java-client",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/anahata-os/gemini-java-client",
+      "metrics": {
+        "stars": 13,
+        "forks": 1,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452079936-xt9d0imhq",
+      "title": {
+        "zh": "aidefend mcp",
+        "en": "aidefend-mcp"
+      },
+      "description": {
+        "zh": "AIDEFEND MCP is a local-first AI Security Defensive Assistant that brings the full AIDEFEND countermeasure library into your environment and turns static knowledge into actionable protection for LLMs and agentic AI systems — privately, securely, and on-device.",
+        "en": "AIDEFEND MCP is a local-first AI Security Defensive Assistant that brings the full AIDEFEND countermeasure library into your environment and turns static knowledge into actionable protection for LLMs and agentic AI systems — privately, securely, and on-device."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "ai-security-tool",
+        "aidefend",
+        "cybersecurity-tools",
+        "iso-42001",
+        "maestro",
+        "mcp",
+        "mitre-atlas",
+        "nist-ai-risk-management-framework",
+        "open-source-security",
+        "owasp-llm-top-10",
+        "owasp-ml-top10",
+        "privacy-preserving",
+        "rest-api",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/edward-playground/aidefend-mcp",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/edward-playground/aidefend-mcp",
+      "metrics": {
+        "stars": 11,
+        "forks": 2,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452079936-ix42j6y4s",
+      "title": {
+        "zh": "gemini java client",
+        "en": "gemini-java-client"
+      },
+      "description": {
+        "zh": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant.",
+        "en": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "agentic-workflows",
+        "ai",
+        "ai-assistant",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "gemini-cli",
+        "gemini-client",
+        "gemini-flash",
+        "gemini-pro",
+        "gemini-protocol",
+        "gemini-server",
+        "gemini3",
+        "genai",
+        "java",
+        "openclaw",
+        "文件处理",
+        "代码生成",
+        "大语言模型",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/anahata-os/gemini-java-client",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/anahata-os/gemini-java-client",
+      "metrics": {
+        "stars": 13,
+        "forks": 1,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452079936-xt9d0imhq",
+      "title": {
+        "zh": "aidefend mcp",
+        "en": "aidefend-mcp"
+      },
+      "description": {
+        "zh": "AIDEFEND MCP is a local-first AI Security Defensive Assistant that brings the full AIDEFEND countermeasure library into your environment and turns static knowledge into actionable protection for LLMs and agentic AI systems — privately, securely, and on-device.",
+        "en": "AIDEFEND MCP is a local-first AI Security Defensive Assistant that brings the full AIDEFEND countermeasure library into your environment and turns static knowledge into actionable protection for LLMs and agentic AI systems — privately, securely, and on-device."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "ai-security-tool",
+        "aidefend",
+        "cybersecurity-tools",
+        "iso-42001",
+        "maestro",
+        "mcp",
+        "mitre-atlas",
+        "nist-ai-risk-management-framework",
+        "open-source-security",
+        "owasp-llm-top-10",
+        "owasp-ml-top10",
+        "privacy-preserving",
+        "rest-api",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/edward-playground/aidefend-mcp",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/edward-playground/aidefend-mcp",
+      "metrics": {
+        "stars": 11,
+        "forks": 2,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452079936-ix42j6y4s",
+      "title": {
+        "zh": "gemini java client",
+        "en": "gemini-java-client"
+      },
+      "description": {
+        "zh": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant.",
+        "en": "Autonomous AI Agent for the JVM: shell, files, google search, runs any LLM generated java code on the jvm itself. JIT compilation and a child-first classloader with ANY classpath. Comes wit a swing GUI , can be \"dropped in\" into any existing java application. Easy tools easy pojos. IoT devices. Run it standalone for a pure-java AI assistant."
+      },
+      "primaryCategory": "智能母体",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-rag",
+        "agentic-workflows",
+        "ai",
+        "ai-assistant",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "gemini-cli",
+        "gemini-client",
+        "gemini-flash",
+        "gemini-pro",
+        "gemini-protocol",
+        "gemini-server",
+        "gemini3",
+        "genai",
+        "java",
+        "openclaw",
+        "文件处理",
+        "代码生成",
+        "大语言模型",
+        "搜索"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/anahata-os/gemini-java-client",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/anahata-os/gemini-java-client",
+      "metrics": {
+        "stars": 13,
+        "forks": 1,
+        "trendScore": 15
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于智能母体场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772452082357-5is5prbn9",
+      "title": {
+        "zh": "Advanced AI Hardware Software Co Design",
+        "en": "Advanced-AI-Hardware-Software-Co-Design"
+      },
+      "description": {
+        "zh": "This course provides a hands-on introduction to extreme model quantization, hardware-aware optimization, and on-device deployment for generative AI models. You'll explore advanced techniques to reduce model size, accelerate inference, and deploy compact LLMs on edge devices like Android smartphones.",
+        "en": "This course provides a hands-on introduction to extreme model quantization, hardware-aware optimization, and on-device deployment for generative AI models. You'll explore advanced techniques to reduce model size, accelerate inference, and deploy compact LLMs on edge devices like Android smartphones."
+      },
+      "primaryCategory": "广告营销推广",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "genai",
+        "llm",
+        "quantization",
+        "quantization-aware-training",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "metrics": {
+        "stars": 32,
+        "forks": 8,
+        "trendScore": 48
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:48:02.357Z"
+    },
+    {
+      "id": "auto-1772454875534-6yxxvq9zz",
+      "title": {
+        "zh": "Advanced AI Hardware Software Co Design",
+        "en": "Advanced-AI-Hardware-Software-Co-Design"
+      },
+      "description": {
+        "zh": "This course provides a hands-on introduction to extreme model quantization, hardware-aware optimization, and on-device deployment for generative AI models. You'll explore advanced techniques to reduce model size, accelerate inference, and deploy compact LLMs on edge devices like Android smartphones.",
+        "en": "This course provides a hands-on introduction to extreme model quantization, hardware-aware optimization, and on-device deployment for generative AI models. You'll explore advanced techniques to reduce model size, accelerate inference, and deploy compact LLMs on edge devices like Android smartphones."
+      },
+      "primaryCategory": "广告营销推广",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "genai",
+        "llm",
+        "quantization",
+        "quantization-aware-training",
+        "大语言模型"
+      ],
+      "applicableCategories": [
+        "广告营销推广",
+        "AI 硬件",
+        "创意设计"
+      ],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "metrics": {
+        "stars": 32,
+        "forks": 8,
+        "trendScore": 48
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "广告营销推广",
+          "AI 硬件",
+          "创意设计"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:35.534Z"
+    },
+    {
+      "id": "auto-1772454875534-6yxxvq9zz",
+      "title": {
+        "zh": "Advanced 人工智能 Hardware Software Co Design",
+        "en": "Advanced AI Hardware Software Co Design"
+      },
+      "description": {
+        "zh": "This course provides a hands-on introduction to extreme 模型 quantization, hardware-aware 优化, and on-设备 部署 for 生成式 人工智能 模型s. You'll explore advanced techniques to reduce 模型 size, accelerate 推理, and deploy compact 大语言模型s on 边缘 设备s like Android smartphones.",
+        "en": "This course provides a hands-on introduction to extreme model quantization, hardware-aware optimization, and on-device deployment for generative AI models. You'll explore advanced techniques to reduce model size, accelerate inference, and deploy compact LLMs on edge devices like Android smartphones."
+      },
+      "primaryCategory": "广告营销推广",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "genai",
+        "llm",
+        "quantization",
+        "quantization-aware-training",
+        "大语言模型"
+      ],
+      "applicableCategories": [
+        "广告营销推广",
+        "AI 硬件",
+        "创意设计"
+      ],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/arm-university/Advanced-AI-Hardware-Software-Co-Design",
+      "metrics": {
+        "stars": 32,
+        "forks": 8,
+        "trendScore": 48
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "广告营销推广",
+          "AI 硬件",
+          "创意设计"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:35.534Z"
+    },
+    {
+      "id": "auto-1772452079936-brgf7geys",
+      "title": {
+        "zh": "AbodeLLM",
+        "en": "AbodeLLM"
+      },
+      "description": {
+        "zh": "AbodeLLM allows you to run AI assistants on your android device without internet connection",
+        "en": "AbodeLLM allows you to run AI assistants on your android device without internet connection"
+      },
+      "primaryCategory": "广告营销推广",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "abodellm",
+        "android",
+        "android-ai",
+        "artificial-intelligence",
+        "llm",
+        "offline-ai",
+        "大语言模型"
+      ],
+      "applicableCategories": [],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/brendmung/AbodeLLM",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/brendmung/AbodeLLM",
+      "metrics": {
+        "stars": 5,
+        "forks": 0,
+        "trendScore": 5
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于AI大模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的AI工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": []
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T11:47:59.936Z"
+    },
+    {
+      "id": "auto-1772454873499-d9nu6caf3",
+      "title": {
+        "zh": "Abode大语言模型",
+        "en": "AbodeLLM"
+      },
+      "description": {
+        "zh": "Abode大语言模型 allows you to run 人工智能 助手s on your android 设备 without internet connection",
+        "en": "AbodeLLM allows you to run AI assistants on your android device without internet connection"
+      },
+      "primaryCategory": "广告营销推广",
+      "secondaryCategory": "opensource_soft",
+      "capabilityTags": [
+        "abodellm",
+        "android",
+        "android-ai",
+        "artificial-intelligence",
+        "llm",
+        "offline-ai",
+        "大语言模型"
+      ],
+      "applicableCategories": [
+        "广告营销推广"
+      ],
+      "isUniversal": false,
+      "downloadUrl": "https://github.com/brendmung/AbodeLLM",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/brendmung/AbodeLLM",
+      "metrics": {
+        "stars": 5,
+        "forks": 0,
+        "trendScore": 5
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于大语言模型",
+          "自动化能力强",
+          "开源可定制"
+        ],
+        "recommendationReason": "适用于广告营销推广场景的工具",
+        "technicalHighlight": "开源项目，支持二次开发",
+        "applicableScenarios": [
+          "广告营销推广"
+        ]
+      },
+      "status": "pending",
+      "scrapedAt": "2026-03-02T12:34:33.499Z"
+    }
+  ],
+  "total": 25,
+  "generatedAt": "2026-03-02T12:52:43.419Z"
+}

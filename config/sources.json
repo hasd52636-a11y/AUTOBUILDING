@@ -1,0 +1,120 @@
+{
+  "primaryCategories": [
+    "智能母体",
+    "跨境电商",
+    "视频电商",
+    "自媒体运行",
+    "广告营销推广",
+    "AI 硬件",
+    "创意设计",
+    "社群福利"
+  ],
+  "secondaryCategories": [
+    { "label": "智能母体", "value": "motherbody" },
+    { "label": "Agent", "value": "agent" },
+    { "label": "Skill", "value": "skill" },
+    { "label": "MCP", "value": "mcp" },
+    { "label": "Prompt", "value": "prompt" },
+    { "label": "开源软件", "value": "opensource_soft" }
+  ],
+  "capabilityTags": [
+    "记忆/知识",
+    "浏览器自动化",
+    "文件处理",
+    "通讯集成",
+    "数据分析",
+    "图像处理",
+    "视频处理",
+    "语音处理",
+    "API集成",
+    "数据库",
+    "安全/鉴权",
+    "工作流",
+    "多模态",
+    "代码生成",
+    "内容创作"
+  ],
+  "sources": [
+    {
+      "id": "openclawdir",
+      "name": "OpenClaw Directory",
+      "type": "directory",
+      "url": "https://openclawdir.com/",
+      "enabled": true
+    },
+    {
+      "id": "skills-sh",
+      "name": "Skills.sh",
+      "type": "directory",
+      "url": "https://skills.sh/",
+      "enabled": true
+    },
+    {
+      "id": "skillsmp",
+      "name": "SkillsMP",
+      "type": "directory",
+      "url": "https://skillsmp.com/zh",
+      "enabled": true
+    },
+    {
+      "id": "openclawskills",
+      "name": "OpenClaw Skills",
+      "type": "directory",
+      "url": "https://openclawskills.io/zh/skills",
+      "enabled": true
+    },
+    {
+      "id": "github-voltagent",
+      "name": "VoltAgent Awesome",
+      "type": "github",
+      "repo": "VoltAgent/awesome-openclaw-skills",
+      "enabled": true
+    },
+    {
+      "id": "github-composio",
+      "name": "Composio Awesome",
+      "type": "github",
+      "repo": "composiohq/awesome-claude-skills",
+      "enabled": true
+    },
+    {
+      "id": "github-vercel",
+      "name": "Vercel Agent Skills",
+      "type": "github",
+      "repo": "vercel-labs/agent-skills",
+      "enabled": true
+    },
+    {
+      "id": "github-anthropics",
+      "name": "Anthropics Skills",
+      "type": "github",
+      "repo": "anthropics/skills",
+      "enabled": true
+    },
+    {
+      "id": "github-regenrek",
+      "name": "Regenrek Agent Skills",
+      "type": "github",
+      "repo": "regenrek/agent-skills",
+      "enabled": true
+    }
+  ],
+  "aiHardwareKeywords": {
+    "mustInclude": [
+      "llm", "gpt", "claude", "gemini", "大模型", "语言模型", "多模态",
+      "ai model", "neural network", "deep learning", "transformer",
+      "tts", "stt", "asr", "nlp", "cv", "computer vision",
+      "yolo", "stable diffusion", "diffusion model", "文生图",
+      "voice ai", "speech ai", "multimodal", "vlm", "vla",
+      "ai agent", "agent hardware"
+    ],
+    "hardwareTypes": [
+      "ai-device", "robot", "edge-ai", "wearable", "vision-device", "voice-device", "drone"
+    ]
+  },
+  "updateRules": {
+    "maxPerCategory": 20,
+    "dailyNewItems": 5,
+    "minStars": 5
+  }
+}

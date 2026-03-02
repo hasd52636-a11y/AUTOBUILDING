@@ -1,0 +1,68 @@
+{
+  "智能母体": {
+    "description": "具有独立工作处理能力的底层智能体平台，类似OpenClaw的Agent运行时",
+    "included": [
+      "openclaw", "claude", "anthropic", "openai", "gpt", "gemini", 
+      "minimax", "kimi", "moonshot", "文心", "通义", "qwen",
+      "copilot", "notion ai", "perplexity", " manus ", "anthropic",
+      "agent framework", "runtime", "agent runtime", "智能体平台",
+      "多模态模型", "基础大模型", "llm platform", "model platform"
+    ],
+    "excluded": [
+      "shopify", "amazon", "跨境", "tiktok", "抖音", "短视频",
+      "seo", "广告", "投放", "marketing", "ads"
+    ],
+    "examples": [
+      "OpenClaw - 开源计算机控制智能体",
+      "Manus Agent - 通用型AI Agent",
+      "Claude Cowork - 企业协作智能体",
+      "Copilot Tasks - 微软自动化任务执行器",
+      "MiniMax - 通用大模型平台",
+      "Kimi - 长文本处理智能体"
+    ]
+  },
+  "Agent": {
+    "description": "在智能母体基础上构建的特定任务执行智能体，具备完整的工作流程能力",
+    "included": [
+      "选品", "分析", "监控", "tracker", "自动化任务", "workflow",
+      "automation task", "autonomous", "task agent"
+    ],
+    "excluded": [
+      "framework", "runtime", "平台", "llm", "model", "大模型"
+    ],
+    "keywords": ["选品", "数据分析", "竞品监控", "自动化执行", "任务编排"]
+  },
+  "Skill": {
+    "description": "可复用的自动化技能、工作流脚本，通常基于特定平台",
+    "included": [
+      "skill", "workflow", "automation", "工作流", "脚本",
+      "playbook", "recipe", "template", "automation script"
+    ],
+    "excluded": [
+      "framework", "runtime", "platform", "mcp"
+    ],
+    "keywords": ["自动化流程", "工作流", "脚本", "技能配置"]
+  },
+  "MCP": {
+    "description": "Model Context Protocol 协议的工具服务器，提供标准化的工具接口",
+    "included": [
+      "mcp", "model context protocol", "mcp-server", "mcp client"
+    ],
+    "keywords": ["MCP协议", "工具服务器", "标准化接口"]
+  },
+  "Prompt": {
+    "description": "预设的提示词、角色模板、问答范式",
+    "included": [
+      "prompt", "提示词", "template", "角色", "persona", 
+      "system prompt", "instruction template", "prompt engineering"
+    ],
+    "keywords": ["提示词", "角色设定", "问答模板", "prompt工程"]
+  },
+  "开源软件": {
+    "description": "独立的开源工具、软件项目，不属于上述分类",
+    "included": [
+      "open source", "开源", "github project", "tool", "utility"
+    ],
+    "keywords": ["独立工具", "开源项目", "软件"]
+  }
+}

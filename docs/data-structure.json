@@ -1,0 +1,42 @@
+{
+  "id": "unique-id",
+  "title": {
+    "zh": "中文名称",
+    "en": "English Name"
+  },
+  "description": {
+    "zh": "中文描述",
+    "en": "English description"
+  },
+  
+  "primaryCategory": "一级分类",
+  "secondaryCategory": "agent|skill|mcp|prompt|opensource_soft",
+  
+  "capabilityTags": ["记忆", "浏览器自动化", "文件处理", ...],
+  "applicableCategories": ["跨境电商", "自媒体运行", ...],
+  "isUniversal": true,
+  
+  "downloadUrl": "https://...",
+  "source": "GitHub|skills.sh|openclawdir.com|...",
+  "sourceUrl": "原始链接",
+  
+  "metrics": {
+    "stars": 0,
+    "forks": 0,
+    "downloads": 0,
+    "trendScore": 0,
+    "lastUpdated": "2024-01-01"
+  },
+  
+  "llmAnalysis": {
+    "innovationPoints": ["创新点1", "创新点2"],
+    "recommendationReason": "推荐理由",
+    "technicalHighlight": "技术亮点",
+    "applicableScenarios": ["场景1", "场景2"]
+  },
+  
+  "status": "pending|approved|archived",
+  "scrapedAt": "2024-01-01T00:00:00Z",
+  "approvedAt": "2024-01-02T08:00:00Z",
+  "reviewNote": "审核备注"
+}
