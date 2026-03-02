@@ -7,8 +7,8 @@
         "en": "daytona"
       },
       "description": {
-        "zh": "运行AI生成代码的安全可扩展基础设施",
-        "en": "Secure and elastic infrastructure for running AI-generated code"
+        "zh": "AI代码生成运行环境，安全可扩展",
+        "en": "AI code generation runtime, secure and scalable"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -54,8 +54,8 @@
         "en": "edge-infer"
       },
       "description": {
-        "zh": "端侧AI推理，在移动设备运行小模型",
-        "en": "Edge AI inference running small models on mobile devices"
+        "zh": "端侧AI推理框架，移动设备运行",
+        "en": "Edge AI inference framework running on mobile devices"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -94,8 +94,8 @@
         "en": "edge-veda"
       },
       "description": {
-        "zh": "端侧AI SDK，支持LLM推理和视觉识别",
-        "en": "Edge AI SDK supporting LLM inference and vision"
+        "zh": "Flutter端侧AI开发SDK",
+        "en": "Flutter edge AI development SDK"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -150,7 +150,7 @@
         "en": "YOLOv10-LiteRT-Android"
       },
       "description": {
-        "zh": "Android端侧目标检测模型",
+        "zh": "Android端目标检测模型",
         "en": "Android edge object detection model"
       },
       "primaryCategory": "创意设计",
@@ -193,8 +193,8 @@
         "en": "edgeai-for-beginners"
       },
       "description": {
-        "zh": "边缘智能入门课程，涵盖基础和应用",
-        "en": "Edge AI beginner course covering basics and applications"
+        "zh": "微软边缘AI入门课程",
+        "en": "Microsoft edge AI beginner course"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -333,8 +333,8 @@
         "en": "claude-code-mcp"
       },
       "description": {
-        "zh": "基于MCP协议的服务器，增强Claude Code文件系统和终端功能",
-        "en": "MCP server to enhance Claude Code file system and terminal capabilities"
+        "zh": "MCP协议服务器，增强Claude Code文件系统和浏览器功能",
+        "en": "MCP protocol servers to enhance Claude Code filesystem and browser capabilities"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "mcp",
@@ -490,8 +490,8 @@
         "en": "Multi-Modal-Chat"
       },
       "description": {
-        "zh": "多模态聊天应用，基于AI模型",
-        "en": "Multi-modal chat application based on AI models"
+        "zh": "多模态AI聊天应用",
+        "en": "Multi-modal AI chat application"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -542,8 +542,8 @@
         "en": "neurons"
       },
       "description": {
-        "zh": "AI模型集合与比较平台",
-        "en": "AI model collection and comparison platform"
+        "zh": "AI模型比较平台",
+        "en": "AI model comparison platform"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -596,8 +596,8 @@
         "en": "silo"
       },
       "description": {
-        "zh": "一款专为  设计的私人  助手。可与大语言模型（）自由对话，无追踪、无审查。完全本地化并在设备端运行，无需联网。",
-        "en": "a private ai assistant for iOS. Chat with LLMs with no tracking or censorship. Local and completely on-device, no internet required."
+        "zh": "本地运行的私人AI助手",
+        "en": "Private AI assistant running locally"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -642,8 +642,8 @@
         "en": "ai-ads-agent"
       },
       "description": {
-        "zh": "广告智能体，自动创建和优化多平台广告",
-        "en": "Ad agent for automated creation and optimization"
+        "zh": "广告投放智能体，自动化多平台广告",
+        "en": "Ad deployment agent for automated multi-platform advertising"
       },
       "primaryCategory": "广告营销推广",
       "secondaryCategory": "opensource_soft",
@@ -683,8 +683,8 @@
         "en": "ai agents for beginners"
       },
       "description": {
-        "zh": "AI智能体入门课程，12课快速上手",
-        "en": "AI agents beginner course, 12 lessons"
+        "zh": "微软AI智能体入门课程",
+        "en": "Microsoft AI agents beginner course"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -735,8 +735,8 @@
         "en": "awesome claude skills"
       },
       "description": {
-        "zh": "精选Claude技能列表，定制AI工作流",
-        "en": "Curated Claude skills list for customizing AI workflows"
+        "zh": "精选Claude技能列表",
+        "en": "Curated list of Claude skills"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "skill",
@@ -790,8 +790,8 @@
         "en": "Awesome-MCP-ZH"
       },
       "description": {
-        "zh": "MCP资源精选指南，包含服务器与客户端使用教程",
-        "en": "Curated MCP resources guide with server and client tutorials"
+        "zh": "MCP协议资源精选指南",
+        "en": "Curated guide for MCP protocol resources"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "mcp",
@@ -841,8 +841,8 @@
         "en": "Awesome MCP ZH"
       },
       "description": {
-        "zh": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients",
-        "en": "MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients"
+        "zh": "MCP协议资源精选指南",
+        "en": "Curated guide for MCP protocol resources"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "mcp",
@@ -892,8 +892,8 @@
         "en": "claude code guide"
       },
       "description": {
-        "zh": "Claude Code配置、命令和工作流完整指南",
-        "en": "Complete guide for Claude Code config, commands and workflows"
+        "zh": "Claude Code完整使用指南",
+        "en": "Complete guide for Claude Code"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "skill",
@@ -953,8 +953,8 @@
         "en": "composio"
       },
       "description": {
-        "zh": "提供1000+工具包，助力构建AI智能体",
-        "en": "1000+ toolkits for building AI agents"
+        "zh": "提供140+工具集成，构建AI智能体",
+        "en": "140+ tool integrations for building AI agents"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1009,8 +1009,8 @@
         "en": "everything claude code"
       },
       "description": {
-        "zh": "智能体性能优化系统，提供技能和开发能力",
-        "en": "Agent performance optimization system with skills and dev capabilities"
+        "zh": "Claude Code性能优化和技能集合",
+        "en": "Claude Code performance optimization and skills collection"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "skill",
@@ -1059,8 +1059,8 @@
         "en": "gemini cli"
       },
       "description": {
-        "zh": "开源AI智能体，将Gemini能力带入终端",
-        "en": "Open source AI agent bringing Gemini to terminal"
+        "zh": "开源AI智能体，终端运行Gemini",
+        "en": "Open source AI agent running Gemini in terminal"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1104,7 +1104,7 @@
         "en": "AgentGPT"
       },
       "description": {
-        "zh": "在浏览器中部署自主AI智能体",
+        "zh": "浏览器端自主AI智能体部署",
         "en": "Deploy autonomous AI agents in browser"
       },
       "primaryCategory": "创意设计",
@@ -1165,8 +1165,8 @@
         "en": "anything-llm"
       },
       "description": {
-        "zh": "一体化桌面AI应用，支持RAG和智能体构建",
-        "en": "All-in-one desktop AI app with RAG and agent builder"
+        "zh": "全栈AI应用，支持RAG和智能体构建",
+        "en": "Full-stack AI application with RAG and agent builder"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "mcp",
@@ -1224,8 +1224,8 @@
         "en": "Prompt Engineering Guide"
       },
       "description": {
-        "zh": "提示工程和RAG相关教程与资源集合",
-        "en": "Tutorial and resource collection for prompt engineering and RAG"
+        "zh": "提示工程官方指南和教程",
+        "en": "Official guide and tutorials for prompt engineering"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "prompt",
@@ -1273,8 +1273,8 @@
         "en": "Prompt-Engineering-Guide"
       },
       "description": {
-        "zh": "提示工程官方指南和最佳实践",
-        "en": "Official guide for prompt engineering best practices"
+        "zh": "提示工程官方指南和教程",
+        "en": "Official guide and tutorials for prompt engineering"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "prompt",
@@ -1383,8 +1383,8 @@
         "en": "firecrawl"
       },
       "description": {
-        "zh": "AI网页数据API，将网站转为Markdown",
-        "en": "AI web data API converting websites to Markdown"
+        "zh": "AI网页数据采集，将网站转为结构化数据",
+        "en": "AI web data collection converting websites to structured data"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1442,8 +1442,8 @@
         "en": "ai-agents-for-beginners"
       },
       "description": {
-        "zh": "AI智能体入门课程，12课快速上手",
-        "en": "AI agents beginner course, 12 lessons"
+        "zh": "微软AI智能体入门课程",
+        "en": "Microsoft AI agents beginner course"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1548,8 +1548,8 @@
         "en": "awesome-claude-skills"
       },
       "description": {
-        "zh": "精选Claude技能和工具列表",
-        "en": "Curated Claude skills and tools list"
+        "zh": "精选Claude技能列表",
+        "en": "Curated list of Claude skills"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "skill",
@@ -1603,8 +1603,8 @@
         "en": "oh my opencode"
       },
       "description": {
-        "zh": "最佳智能体框架集合",
-        "en": "Best agent framework collection"
+        "zh": "智能体框架精选列表",
+        "en": "Curated list of agent frameworks"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1658,8 +1658,8 @@
         "en": "claude mem"
       },
       "description": {
-        "zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd...",
-        "en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd..."
+        "zh": "Claude会话上下文自动保存插件",
+        "en": "Claude session context auto-save plugin"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -1718,8 +1718,8 @@
         "en": "AutoClaw"
       },
       "description": {
-        "zh": "用AI控制浏览器自动化，基于Chrome Debugger API，一次授权控制所有标签页",
-        "en": "AI-powered browser automation based on Chrome Debugger API"
+        "zh": "AI浏览器自动化工具，基于Chrome Debugger API",
+        "en": "AI browser automation tool based on Chrome Debugger API"
       },
       "primaryCategory": "跨境电商",
       "secondaryCategory": "opensource_soft",
@@ -1802,8 +1802,8 @@
         "en": "GitHub Copilot"
       },
       "description": {
-        "zh": "AI编程助手，支持多语言和工作流",
-        "en": "AI programming assistant with multi-language support"
+        "zh": "AI编程助手，代码自动补全和建议",
+        "en": "AI programming assistant with code completion and suggestions"
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "opensource_soft",
@@ -1835,8 +1835,8 @@
         "en": "LangChain"
       },
       "description": {
-        "zh": "可靠智能体开发平台，构建LLM应用",
-        "en": "Reliable agent development platform for LLM apps"
+        "zh": "构建LLM应用的开发框架",
+        "en": "Development framework for building LLM applications"
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "opensource_soft",
@@ -1868,8 +1868,8 @@
         "en": "Azure AutoGen"
       },
       "description": {
-        "zh": "微软多智能体AI编程框架",
-        "en": "Microsoft multi-agent AI programming framework"
+        "zh": "微软多智能体编程框架，构建AI Agent应用",
+        "en": "Microsoft multi-agent programming framework for building AI Agent applications"
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "opensource_soft",
@@ -1901,8 +1901,8 @@
         "en": "DeepSeek AI"
       },
       "description": {
-        "zh": "高性能AI计算和集成开源项目",
-        "en": "High-performance AI computing and integration projects"
+        "zh": "高性能AI计算开源项目，包含大语言模型和推理框架",
+        "en": "High-performance AI computing open source projects including LLM and inference framework"
       },
       "primaryCategory": "智能母体",
       "secondaryCategory": "opensource_soft",
@@ -1967,8 +1967,8 @@
         "en": "Skills.sh"
       },
       "description": {
-        "zh": "开放智能体技能生态系统，提供可复用能力",
-        "en": "Open agent skill ecosystem with reusable capabilities"
+        "zh": "开放智能体技能平台",
+        "en": "Open agent skills platform"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "skill",
@@ -2000,8 +2000,8 @@
         "en": "CoWork.com"
       },
       "description": {
-        "zh": "AI插件和技能市场，发现安装AI工具平台",
-        "en": "AI plugins and skills marketplace for discovering tools"
+        "zh": "AI插件和技能市场",
+        "en": "AI plugins and skills marketplace"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
@@ -2066,8 +2066,8 @@
         "en": "任务自动化框架"
       },
       "description": {
-        "zh": "多智能体协作和实时任务自动化",
-        "en": "Multi-agent collaboration and real-time task automation"
+        "zh": "多智能体协作和任务自动化框架",
+        "en": "Multi-agent collaboration and task automation framework"
       },
       "primaryCategory": "创意设计",
       "secondaryCategory": "opensource_soft",
