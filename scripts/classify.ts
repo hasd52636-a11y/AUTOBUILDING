@@ -100,55 +100,153 @@ function callNVIDIAAPI(prompt: string): Promise<string> {
   });
 }
 
+function translateWithLLM(title: string, desc: string): Promise<{ titleZh: string; descZh: string }> {
+  return new Promise(async (resolve) => {
+    try {
+      const prompt = `请将以下AI工具的标题和描述翻译成中文。保持专业术语的准确性。
+
+标题: ${title}
+描述: ${desc}
+
+请直接返回JSON格式，不要解释：
+{"title":"翻译后的标题","desc":"翻译后的描述"}`;
+      
+      const content = await callNVIDIAAPI(prompt);
+      const jsonMatch = content.match(/\{[\s\S]*\}/);
+      
+      if (jsonMatch) {
+        const parsed = JSON.parse(jsonMatch[0]);
+        resolve({
+          titleZh: parsed.title || title,
+          descZh: parsed.desc || desc
+        });
+      } else {
+        resolve({ titleZh: title, descZh: desc });
+      }
+    } catch (e) {
+      console.log(`  ⚠️ LLM翻译失败，使用规则翻译: ${e}`);
+      const { titleZh, descZh } = translateWithRules(title, desc);
+      resolve({ titleZh, descZh });
+    }
+  });
+}
+
 function translateWithRules(title: string, desc: string): { titleZh: string; descZh: string } {
   const translations: Record<string, string> = {
-    'agent': '智能体', 'agents': '智能体', 'framework': '框架', 'runtime': '运行时',
-    'tool': '工具', 'library': '库', 'api': '接口', 'server': '服务器', 'client': '客户端',
-    'plugin': '插件', 'integration': '集成', 'automation': '自动化', 'workflow': '工作流',
-    'script': '脚本', 'template': '模板', 'open source': '开源', 'opensource': '开源',
-    'AI': '人工智能', 'LLM': '大语言模型', 'language model': '语言模型', 'model': '模型',
-    'assistant': '助手', 'chatbot': '聊天机器人', 'chat': '对话', 'generative': '生成式',
-    'multi-agent': '多智能体', 'multimodal': '多模态', 'deployment': '部署',
-    'inference': '推理', 'training': '训练', 'embedding': '向量', 'vector': '向量',
-    'database': '数据库', 'knowledge': '知识', 'memory': '记忆', 'context': '上下文',
-    'prompt': '提示词', 'engineering': '工程', 'search': '搜索', 'retrieval': '检索',
-    'RAG': '检索增强', 'code': '代码', 'developer': '开发者', 'sdk': '开发工具包',
-    'cli': '命令行', 'bridge': '桥接', 'gateway': '网关', 'proxy': '代理',
-    'middleware': '中间件', 'orchestration': '编排', 'parallel': '并行',
-    'distributed': '分布式', 'scaling': '扩展', 'monitoring': '监控', 'logging': '日志',
-    'debugging': '调试', 'testing': '测试', 'security': '安全', 'authentication': '认证',
-    'authorization': '授权', 'encryption': '加密', 'privacy': '隐私', 'local': '本地',
-    'cloud': '云端', 'edge': '边缘', 'device': '设备', 'IoT': '物联网',
-    'embedded': '嵌入式', 'performance': '性能', 'optimization': '优化', 'management': '管理',
-    'platform': '平台', 'service': '服务', 'system': '系统', 'solution': '解决方案'
+    // 核心AI术语
+    'agent': '智能体', 'agents': '智能体', 'ai agent': 'AI智能体', 'multi-agent': '多智能体',
+    'framework': '框架', 'runtime': '运行时', 'platform': '平台',
+    'tool': '工具', 'library': '库', 'sdk': '开发工具包',
+    'api': '接口', 'server': '服务器', 'client': '客户端',
+    'plugin': '插件', 'extension': '扩展',
+    'integration': '集成', 'connector': '连接器',
+    'automation': '自动化', 'automate': '自动化',
+    'workflow': '工作流', 'orchestration': '编排',
+    'script': '脚本', 'template': '模板', 'boilerplate': '模板',
+    'open source': '开源', 'opensource': '开源', 'open-source': '开源',
+    
+    // AI/ML 术语
+    'AI': '人工智能', 'artificial intelligence': '人工智能',
+    'LLM': '大语言模型', 'large language model': '大语言模型',
+    'language model': '语言模型', 'lm': '语言模型',
+    'model': '模型', 'models': '模型',
+    'assistant': '助手', 'chatbot': '聊天机器人', 'chat bot': '聊天机器人',
+    'chat': '对话', 'conversation': '对话',
+    'generative': '生成式', 'generation': '生成',
+    'multimodal': '多模态', 'vision': '视觉', 'image': '图像', 'video': '视频', 'audio': '音频', 'speech': '语音',
+    'deployment': '部署', 'deploy': '部署',
+    'inference': '推理', 'infer': '推理',
+    'training': '训练', 'train': '训练',
+    'embedding': '向量', 'vector': '向量',
+    'RAG': '检索增强', 'retrieval': '检索',
+    
+    // 能力/功能
+    'memory': '记忆', 'knowledge': '知识', 'context': '上下文',
+    'browser': '浏览器', 'automation': '自动化',
+    'file': '文件', 'filesystem': '文件系统', 'storage': '存储',
+    'database': '数据库', 'sql': 'SQL', 'data': '数据',
+    'code': '代码', 'coding': '编程', 'developer': '开发者', 'dev': '开发',
+    'prompt': '提示词', 'prompting': '提示工程',
+    'search': '搜索', 'crawl': '抓取', 'scrap': '抓取',
+    'webhook': 'Webhook', 'http': 'HTTP', 'rest': 'REST', 'api': 'API',
+    'cloud': '云端', 'local': '本地', 'edge': '边缘',
+    'security': '安全', 'auth': '认证', 'encryption': '加密',
+    'monitoring': '监控', 'logging': '日志', 'analytics': '分析',
+    'performance': '性能', 'optimization': '优化',
+    
+    // 应用场景
+    'productivity': '效率', 'business': '商业', 'enterprise': '企业',
+    'communication': '通讯', 'slack': 'Slack', 'discord': 'Discord', 'telegram': 'Telegram',
+    'marketing': '营销', 'ads': '广告', 'seo': 'SEO',
+    'ecommerce': '电商', 'shopify': 'Shopify', 'amazon': '亚马逊',
+    'social media': '社交媒体', 'twitter': 'Twitter', 'instagram': 'Instagram',
+    
+    // 技术术语
+    'cli': '命令行', 'command line': '命令行',
+    'bridge': '桥接', 'gateway': '网关', 'proxy': '代理', 'middleware': '中间件',
+    'parallel': '并行', 'concurrent': '并发', 'async': '异步',
+    'distributed': '分布式', 'microservice': '微服务',
+    'container': '容器', 'docker': 'Docker', 'kubernetes': 'K8s',
+    'testing': '测试', 'debugging': '调试',
+    
+    // 设备/硬件
+    'device': '设备', 'hardware': '硬件', 'robot': '机器人', 'robotics': '机器人技术',
+    'iot': '物联网', 'embedded': '嵌入式', 'edge computing': '边缘计算',
+    'wearable': '可穿戴', 'glasses': '眼镜', 'camera': '摄像头'
   };
   
   let titleZh = title;
   let descZh = desc;
   
-  for (const [en, zh] of Object.entries(translations)) {
-    const regex = new RegExp(en, 'gi');
+  // 先转小写进行匹配
+  const lowerTitle = title.toLowerCase();
+  const lowerDesc = desc.toLowerCase();
+  
+  // 匹配翻译（按长度降序，避免短词先匹配）
+  const sortedEntries = Object.entries(translations).sort((a, b) => b[0].length - a[0].length);
+  
+  for (const [en, zh] of sortedEntries) {
+    const regex = new RegExp(en.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
     titleZh = titleZh.replace(regex, zh);
     descZh = descZh.replace(regex, zh);
+  }
+  
+  // 特殊处理：某些词需要保持英文首字母大写
+  // 检查原始标题是否全大写，如果是则保留
+  if (title === title.toUpperCase() && title.length > 2) {
+    // 保持原样
   }
   
   return { titleZh, descZh };
 }
 
 async function translateResources(resources: CategorizedResource[]): Promise<CategorizedResource[]> {
-  log('🔄 翻译中（规则翻译）...');
+  log('🔄 翻译中（LLM翻译）...');
   
-  const translated = resources.map(item => {
+  const translated: CategorizedResource[] = [];
+  
+  for (let i = 0; i < resources.length; i++) {
+    const item = resources[i];
+    
+    // 检查是否已有有效的中文翻译
     if (item.title.zh && item.title.zh !== item.title.en && item.title.zh.length > 2) {
-      return item;
+      translated.push(item);
+      continue;
     }
-    const { titleZh, descZh } = translateWithRules(item.title.en, item.description.en);
-    return {
+    
+    // 使用 LLM 翻译
+    const { titleZh, descZh } = await translateWithLLM(item.title.en, item.description.en);
+    
+    translated.push({
       ...item,
       title: { zh: titleZh, en: item.title.en },
       description: { zh: descZh, en: item.description.en }
-    };
-  });
+    });
+    
+    if ((i + 1) % 5 === 0) {
+      log(`  翻译进度: ${i + 1}/${resources.length}`);
+    }
+  }
   
   log(`✅ 翻译完成: ${translated.length} 个`);
   return translated;
