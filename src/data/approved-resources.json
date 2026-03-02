@@ -3918,6 +3918,56 @@
       },
       "status": "approved",
       "scrapedAt": "2026-03-02T11:47:58.068Z"
+    },
+    {
+      "id": "autoclaw-mcp-1",
+      "title": {
+        "zh": "AutoClaw",
+        "en": "AutoClaw"
+      },
+      "description": {
+        "zh": "用AI控制浏览器自动化，基于Chrome Debugger API的本地浏览器控制，一次授权可控制所有标签页和网页。",
+        "en": "AI-powered browser automation tool based on Chrome Debugger API, controlling all tabs and pages with one-time authorization."
+      },
+      "primaryCategory": "跨境电商",
+      "secondaryCategory": "mcp",
+      "capabilityTags": [
+        "浏览器自动化",
+        "AI控制",
+        "MCP"
+      ],
+      "applicableCategories": [
+        "跨境电商",
+        "视频电商",
+        "自媒体运行",
+        "广告营销推广"
+      ],
+      "isUniversal": true,
+      "downloadUrl": "https://github.com/hasd52636-a11y/autoclaw",
+      "source": "AutoClaw",
+      "sourceUrl": "https://github.com/hasd52636-a11y/autoclaw",
+      "metrics": {
+        "stars": 0,
+        "forks": 0,
+        "trendScore": 0
+      },
+      "llmAnalysis": {
+        "innovationPoints": [
+          "基于Chrome Debugger API",
+          "本地浏览器控制",
+          "全标签页管理"
+        ],
+        "recommendationReason": "适用于需要浏览器自动化的各种场景",
+        "technicalHighlight": "AI驱动的浏览器控制技术",
+        "applicableScenarios": [
+          "跨境电商",
+          "视频电商",
+          "自媒体运营",
+          "广告投放"
+        ]
+      },
+      "status": "approved",
+      "scrapedAt": "2026-03-02T14:18:22.247Z"
     }
   ]
 }

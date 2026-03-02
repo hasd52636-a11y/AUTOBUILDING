@@ -283,13 +283,12 @@ function detectCategoryLLM(title: string, desc: string, tags: string[], isUniver
     return { primary: '智能母体', applicable: [] }; // MCP 暂时归入智能母体或新建分类
   }
   
-  // 其他分类关键词
+  // 其他分类关键词（不包含AI硬件，因为那是视频内容）
   const categoryKeywords: Record<string, string[]> = {
     '跨境电商': ['amazon', 'shopify', '跨境', '物流', 'shipping', '选品', 'listing', 'erp', '支付', 'payment', '汇率', 'aliexpress', 'ebay', 'fba', '海外仓', '速卖通'],
     '视频电商': ['短视频', '直播', '抖音', '快手', 'tiktok', '视频剪辑', '字幕', '配音', 'tts', '视频去重', '搬运', '直播话术', '带货', '剪辑', 'video', 'b站', 'bilibili'],
     '自媒体运行': ['小红书', '公众号', '自媒体', '内容创作', '写作', '文案', '排版', '热点', '热搜', '粉丝', '内容分发', 'social media', 'instagram', '微博', '知乎'],
     '广告营销推广': ['广告', 'ads', '投放', 'marketing', 'seo', 'sem', '转化率', 'roi', '着陆页', 'a/b test', '受众', '人群包', '广告素材', '竞价', '出价', '预算'],
-    'AI 硬件': ['ai hardware', '智能硬件', '机器人', 'robot', 'edge ai', '边缘计算', 'jetson', 'npu', 'coral', 'tpu', '智能眼镜', 'ar glasses', '可穿戴', 'wearable', '无人机', '具身智能', '人形机器人', '机器狗', '机械臂'],
     '创意设计': ['design', '设计', 'ui', 'ux', 'figma', 'midjourney', 'stable diffusion', 'ai绘画', '图片生成', 'logo', '配色', '字体', '插画', '海报', '修图', '抠图'],
     '社群福利': ['社群', 'community', '微信群', 'discord', 'telegram', '积分', '等级', '抽奖', 'giveaway', '欢迎', '入群', '自动回复', '客服', '违禁词', '敏感词', '审核', '刷屏']
   };

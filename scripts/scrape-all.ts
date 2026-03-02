@@ -271,54 +271,8 @@ async function scrapeAll() {
     });
   }
   
-  // 3. AI硬件专项采集
-  log('');
-  log('🤖 采集AI硬件...');
-  const hardwareQueries = [
-    'AI device LLM assistant',
-    'smart glasses ar vision AI',
-    'AI robot humanoid GPT',
-    'edge AI inference device',
-    '智能硬件 大模型'
-  ];
-  
-  for (const query of hardwareQueries) {
-    try {
-      const { data } = await octokit.search.repos({
-        q: `${query} stars:>3`,
-        sort: 'stars',
-        order: 'desc',
-        per_page: 10
-      });
-      
-      data.items.forEach(repo => {
-        const text = `${repo.name} ${repo.description || ''}`.toLowerCase();
-        const hasAI = configData.aiHardwareKeywords.mustInclude.some((kw: string) => text.includes(kw.toLowerCase()));
-        
-        if (hasAI && !seenUrls.has(repo.html_url)) {
-          seenUrls.add(repo.html_url);
-          allResources.push({
-            id: generateId(),
-            title: repo.name.replace(/[-_]/g, ' '),
-            titleEn: repo.name,
-            description: repo.description || '暂无描述',
-            descriptionEn: repo.description || 'No description',
-            source: 'GitHub',
-            sourceUrl: repo.html_url,
-            type: 'opensource_soft',
-            tags: repo.topics || ['AI硬件'],
-            stars: repo.stargazers_count,
-            forks: repo.forks_count,
-            trendScore: repo.stargazers_count + repo.forks_count * 2,
-            scrapedAt: new Date().toISOString(),
-            isUniversal: false
-          });
-        }
-      });
-    } catch (e) {
-      log(`  ⚠️ AI硬件搜索失败: ${e}`);
-    }
-  }
+  // 注意：AI硬件采集已禁用，因为需要视频内容
+  // 如需启用，请参考 resources.ts 中的静态数据
   
   // 4. 目录网站采集
   log('');
